@@ -1,0 +1,10 @@
+{
+  "id": "4124d44defeb8a766353631902a846b565b38bab1443fe04e43490978d826a6e",
+  "name": "奈良県",
+  "url": "https://www.pref.nara.jp/services/rdf/rss10/18728.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "state": {
+    "maxSeen": 500
+  }
+}

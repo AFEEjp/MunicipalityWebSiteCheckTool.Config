@@ -1,0 +1,10 @@
+{
+  "id": "36f1b1d1c41de884cce63058298bc981c1cceda94c7aa9a4b72f0a1862fca90e",
+  "name": "京都府",
+  "url": "https://www.pref.kyoto.jp/shinchaku/shinchaku.xml",
+  "type": "rss",
+  "temporaryDisabled": false,
+  "state": {
+    "maxSeen": 500
+  }
+}
