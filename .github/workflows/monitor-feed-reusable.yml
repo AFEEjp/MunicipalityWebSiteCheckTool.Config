@@ -57,6 +57,49 @@ jobs:
           unzip -o ./monitor-runtime.zip -d ./publish
           chmod +x ./publish/MunicipalityWebSiteCheckTool
 
+      - name: Detect browser mode feeds for this cadence
+        id: detect_browser_mode
+        shell: pwsh
+        env:
+          TARGET_CADENCE: ${{ inputs.cadence }}
+        run: |
+          $needBrowser = $false
+          $files = Get-ChildItem -Path ./feeds -Recurse -File -Filter *.json
+          foreach ($file in $files) {
+            try {
+              $feed = Get-Content -Raw -Path $file.FullName | ConvertFrom-Json
+            } catch {
+              continue
+            }
+
+            $type = [string]$feed.type
+            $cadence = [string]$feed.cadence
+            $temporaryDisabled = [bool]$feed.temporaryDisabled
+            if (
+              $temporaryDisabled -eq $false -and
+              [string]::Equals($type, "browser", [System.StringComparison]::OrdinalIgnoreCase) -and
+              [string]::Equals($cadence, $env:TARGET_CADENCE, [System.StringComparison]::OrdinalIgnoreCase)
+            ) {
+              $needBrowser = $true
+              break
+            }
+          }
+
+          if ($needBrowser) {
+            "need_browser=true" >> $env:GITHUB_OUTPUT
+            Write-Host "browser モード対象あり: Playwright Chromium をセットアップします。"
+          } else {
+            "need_browser=false" >> $env:GITHUB_OUTPUT
+            Write-Host "browser モード対象なし: Playwright セットアップをスキップします。"
+          }
+
+      - name: Install Playwright Chromium
+        if: steps.detect_browser_mode.outputs.need_browser == 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+          npx -y playwright@1.54.0 install --with-deps chromium
+
       - name: Run feed monitor
         run: >
           ./publish/MunicipalityWebSiteCheckTool
