@@ -4,6 +4,7 @@
   "url": "https://www.pref.wakayama.lg.jp/prefg/000200/ikenbosyu_index.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

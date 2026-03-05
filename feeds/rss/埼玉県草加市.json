@@ -4,6 +4,7 @@
   "url": "https://www.city.soka.saitama.jp/li/020/news.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

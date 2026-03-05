@@ -4,6 +4,7 @@
   "url": "https://www.city.bunkyo.lg.jp/kusejoho/koho/pabukome.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

@@ -4,6 +4,7 @@
   "url": "https://www.city.osaka.lg.jp/main/rss/rss.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

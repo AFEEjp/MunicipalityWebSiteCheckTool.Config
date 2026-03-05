@@ -4,6 +4,7 @@
   "url": "https://www.city.okayama.jp/rss/rss_topics_shisei.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

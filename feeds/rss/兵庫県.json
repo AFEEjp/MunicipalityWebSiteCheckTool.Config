@@ -4,6 +4,7 @@
   "url": "https://web.pref.hyogo.lg.jp/topics.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

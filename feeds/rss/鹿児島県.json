@@ -4,6 +4,7 @@
   "url": "https://www.pref.kagoshima.jp/saishin/saishin.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

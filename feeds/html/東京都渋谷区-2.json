@@ -4,6 +4,7 @@
   "url": "https://www.city.shibuya.tokyo.jp/contents/news/",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

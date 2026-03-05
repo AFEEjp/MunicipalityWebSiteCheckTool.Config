@@ -4,6 +4,7 @@
   "url": "https://www.city.nerima.tokyo.jp/kusei/pubcom/oshirase/index.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

@@ -4,6 +4,7 @@
   "url": "https://www.city.kunitachi.tokyo.jp/cgi-bin/feed.php?siteNew=1&displayCount=10&displayRange=90&includeShortcut=1",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

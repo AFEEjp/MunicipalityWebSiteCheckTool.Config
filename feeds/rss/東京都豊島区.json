@@ -4,6 +4,7 @@
   "url": "https://www.city.toshima.lg.jp/oshirase/oshirase.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

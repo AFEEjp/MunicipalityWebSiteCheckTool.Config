@@ -4,6 +4,7 @@
   "url": "https://www.pref.hokkaido.lg.jp/category/d001/c002/s003/",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

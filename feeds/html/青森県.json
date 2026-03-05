@@ -4,6 +4,7 @@
   "url": "https://www.pref.aomori.lg.jp/soshiki/soumu/koho/iken.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

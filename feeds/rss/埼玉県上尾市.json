@@ -4,6 +4,7 @@
   "url": "https://www.city.ageo.lg.jp/rss/10/list1.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

@@ -4,6 +4,7 @@
   "url": "https://www.city.yokohama.lg.jp/rss_news.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

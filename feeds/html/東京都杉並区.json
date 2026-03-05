@@ -4,6 +4,7 @@
   "url": "https://www.city.suginami.tokyo.jp/guide/kusei/public/index.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

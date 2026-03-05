@@ -4,6 +4,7 @@
   "url": "https://www.pref.osaka.lg.jp/shinchaku/shinchaku.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

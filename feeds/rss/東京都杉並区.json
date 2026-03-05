@@ -4,6 +4,7 @@
   "url": "https://www.city.suginami.tokyo.jp/kusei/shinchaku/shinchaku.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

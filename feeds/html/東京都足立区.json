@@ -4,6 +4,7 @@
   "url": "https://www.city.adachi.tokyo.jp/ku/mado/p-comment/index.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

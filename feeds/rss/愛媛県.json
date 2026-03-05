@@ -4,6 +4,7 @@
   "url": "https://www.pref.ehime.jp/rss/20/list1.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

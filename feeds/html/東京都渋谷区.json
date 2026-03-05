@@ -4,6 +4,7 @@
   "url": "https://www.city.shibuya.tokyo.jp/kusei/shisaku/public-comment-boshu/",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

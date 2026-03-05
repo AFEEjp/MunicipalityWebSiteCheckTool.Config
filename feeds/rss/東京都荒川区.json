@@ -4,6 +4,7 @@
   "url": "https://www.city.arakawa.tokyo.jp/news/ippan_all.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

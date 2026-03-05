@@ -4,6 +4,7 @@
   "url": "https://www.city.ebina.kanagawa.jp/koho/public/index.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

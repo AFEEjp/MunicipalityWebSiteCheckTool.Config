@@ -4,6 +4,7 @@
   "url": "https://www.city.bunkyo.lg.jp/chumoku.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

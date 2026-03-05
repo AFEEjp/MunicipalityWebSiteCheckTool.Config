@@ -4,6 +4,7 @@
   "url": "https://www.city.itabashi.tokyo.jp/rss/news_release.rss",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

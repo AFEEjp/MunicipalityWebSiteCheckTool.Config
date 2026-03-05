@@ -4,6 +4,7 @@
   "url": "https://www.city.kyoto.lg.jp/templates/pubcomment/0-Curr.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

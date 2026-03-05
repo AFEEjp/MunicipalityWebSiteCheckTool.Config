@@ -4,6 +4,7 @@
   "url": "https://www.pref.ibaraki.jp/bugai/koho/kenmin/category/public-comment.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

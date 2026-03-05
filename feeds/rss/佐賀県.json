@@ -4,6 +4,7 @@
   "url": "https://www.pref.saga.lg.jp/new_list.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

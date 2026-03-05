@@ -4,6 +4,7 @@
   "url": "https://www.pref.tokushima.lg.jp/file/rss/index.rss",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

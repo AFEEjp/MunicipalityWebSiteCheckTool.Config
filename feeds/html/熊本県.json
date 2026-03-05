@@ -4,6 +4,7 @@
   "url": "https://www.pref.kumamoto.jp/life/sub/7/index-2.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

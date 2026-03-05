@@ -4,6 +4,7 @@
   "url": "https://www.city.sapporo.jp/new/shinchaku.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

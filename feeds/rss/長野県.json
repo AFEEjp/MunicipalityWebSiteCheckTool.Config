@@ -4,6 +4,7 @@
   "url": "https://www.pref.nagano.lg.jp/kensei/koho/pressreleases/pressreleases.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

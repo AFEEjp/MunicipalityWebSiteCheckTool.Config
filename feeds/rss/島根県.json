@@ -4,6 +4,7 @@
   "url": "https://www.pref.shimane.lg.jp/top_news.rdf",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

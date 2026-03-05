@@ -4,6 +4,7 @@
   "url": "https://www.pref.gifu.lg.jp/page/203.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

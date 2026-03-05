@@ -4,6 +4,7 @@
   "url": "https://www.city.toda.saitama.jp/rss/10/site-28.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

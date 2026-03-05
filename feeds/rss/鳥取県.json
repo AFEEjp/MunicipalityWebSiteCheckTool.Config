@@ -4,6 +4,7 @@
   "url": "https://www.pref.tottori.lg.jp/services/rdf/rss10/3902.ashx",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

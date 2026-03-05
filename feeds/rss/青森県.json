@@ -4,6 +4,7 @@
   "url": "https://www.pref.aomori.lg.jp/rss/feed.rss",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

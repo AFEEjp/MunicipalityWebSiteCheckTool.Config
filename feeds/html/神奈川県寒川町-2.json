@@ -4,6 +4,7 @@
   "url": "https://www.town.samukawa.kanagawa.jp/news.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

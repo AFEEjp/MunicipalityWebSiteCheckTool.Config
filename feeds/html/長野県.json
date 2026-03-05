@@ -4,6 +4,7 @@
   "url": "https://www.pref.nagano.lg.jp/koho/kensei/koho/public/index.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

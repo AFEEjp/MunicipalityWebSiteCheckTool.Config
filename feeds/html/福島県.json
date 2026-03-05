@@ -4,6 +4,7 @@
   "url": "https://www.pref.fukushima.lg.jp/sec/01010e/koucho1-004.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

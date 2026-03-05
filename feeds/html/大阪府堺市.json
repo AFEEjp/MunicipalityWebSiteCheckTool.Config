@@ -4,6 +4,7 @@
   "url": "https://www.city.sakai.lg.jp/shisei/koho/kocho/publiccomment/goikenboshu.html",
   "type": "html",
   "temporaryDisabled": true,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

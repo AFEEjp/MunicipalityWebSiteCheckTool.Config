@@ -4,6 +4,7 @@
   "url": "https://www.city.sagamihara.kanagawa.jp/shisei/shisei_sanka/pubcome/index.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

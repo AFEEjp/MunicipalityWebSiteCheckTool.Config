@@ -4,6 +4,7 @@
   "url": "https://www.city.ota.tokyo.jp/oshirase/rss_news.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

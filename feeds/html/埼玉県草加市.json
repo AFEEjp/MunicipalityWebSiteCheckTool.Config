@@ -4,6 +4,7 @@
   "url": "https://www.city.soka.saitama.jp/li/060/050/010/030/036/index.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

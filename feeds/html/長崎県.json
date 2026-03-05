@@ -4,6 +4,7 @@
   "url": "https://www.pref.nagasaki.jp/public-comments/",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

@@ -4,6 +4,7 @@
   "url": "https://www.city.toshima.lg.jp/000/kuse/iken/publiccomment/bosyu/index.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

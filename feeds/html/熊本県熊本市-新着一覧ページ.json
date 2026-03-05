@@ -4,6 +4,7 @@
   "url": "https://www.city.kumamoto.jp/new_list.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

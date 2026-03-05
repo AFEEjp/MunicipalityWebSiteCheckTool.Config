@@ -4,6 +4,7 @@
   "url": "https://www.pref.saitama.lg.jp/news/news.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

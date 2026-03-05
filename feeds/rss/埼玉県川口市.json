@@ -4,6 +4,7 @@
   "url": "https://www.city.kawaguchi.lg.jp/cgi-bin/feed.php?type=rss_2.0&new1=1",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

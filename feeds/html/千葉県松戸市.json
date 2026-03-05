@@ -4,6 +4,7 @@
   "url": "https://www.city.matsudo.chiba.jp/shiminnokoe/pabu_come/anken/index.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

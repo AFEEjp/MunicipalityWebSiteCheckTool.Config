@@ -4,6 +4,7 @@
   "url": "https://www.city.fuji.shizuoka.jp/shiseijoho/kocho/publiccomment/index.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

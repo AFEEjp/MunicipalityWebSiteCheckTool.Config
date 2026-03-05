@@ -4,6 +4,7 @@
   "url": "https://www.city.sapporo.jp/somu/pub-comment/index.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

@@ -4,6 +4,7 @@
   "url": "https://www.pref.kanagawa.jp/pub/list-2.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

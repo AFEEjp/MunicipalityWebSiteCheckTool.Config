@@ -4,6 +4,7 @@
   "url": "https://www.city.kawasaki.jp/templates/pubcom/0-Curr-10-20.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

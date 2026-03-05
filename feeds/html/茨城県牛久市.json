@@ -4,6 +4,7 @@
   "url": "https://www.city.ushiku.lg.jp/page/dir000090.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

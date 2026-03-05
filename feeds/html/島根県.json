@@ -4,6 +4,7 @@
   "url": "https://www.pref.shimane.lg.jp/admin/seisaku/koho/come/",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

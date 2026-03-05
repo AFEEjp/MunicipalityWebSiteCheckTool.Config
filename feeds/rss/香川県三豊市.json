@@ -4,6 +4,7 @@
   "url": "https://www.city.mitoyo.lg.jp/cgi-bin/feed.php?type=rss_2.0",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

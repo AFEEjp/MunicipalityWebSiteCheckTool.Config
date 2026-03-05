@@ -4,6 +4,7 @@
   "url": "https://www.metro.tokyo.lg.jp/index.html/-/asset_publisher/knkg/rss",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

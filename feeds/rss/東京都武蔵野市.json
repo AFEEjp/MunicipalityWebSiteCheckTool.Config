@@ -4,6 +4,7 @@
   "url": "https://www.city.musashino.lg.jp/news.rss",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

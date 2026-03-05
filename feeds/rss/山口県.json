@@ -4,6 +4,7 @@
   "url": "https://www.pref.yamaguchi.lg.jp/rss/10/list6.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

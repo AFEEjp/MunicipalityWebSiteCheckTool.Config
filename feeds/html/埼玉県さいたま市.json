@@ -4,6 +4,7 @@
   "url": "https://www.city.saitama.lg.jp/006/002/008/002/index.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

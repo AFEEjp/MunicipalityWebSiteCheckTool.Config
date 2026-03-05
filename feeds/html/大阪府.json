@@ -4,6 +4,7 @@
   "url": "https://www.pref.osaka.lg.jp/fumin/public/index.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

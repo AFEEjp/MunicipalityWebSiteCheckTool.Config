@@ -4,6 +4,7 @@
   "url": "https://www.pref.ishikawa.lg.jp/kensei/koho/publiccomment/index.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

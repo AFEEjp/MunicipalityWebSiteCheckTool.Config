@@ -4,6 +4,7 @@
   "url": "https://www.pref.nara.jp/4885.htm",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

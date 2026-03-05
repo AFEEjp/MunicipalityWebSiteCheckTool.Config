@@ -4,6 +4,7 @@
   "url": "https://www.city.chiba.jp/shimin/shimin/jichi/public_comment.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

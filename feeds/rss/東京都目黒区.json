@@ -4,6 +4,7 @@
   "url": "https://www.city.meguro.tokyo.jp/oshirase/rss_news.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

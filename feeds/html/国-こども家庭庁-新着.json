@@ -4,6 +4,7 @@
   "url": "https://www.cfa.go.jp/news",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

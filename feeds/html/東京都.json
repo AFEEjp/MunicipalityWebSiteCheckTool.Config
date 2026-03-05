@@ -4,6 +4,7 @@
   "url": "https://www.johokokai.metro.tokyo.lg.jp/jyuyokohyo/02.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

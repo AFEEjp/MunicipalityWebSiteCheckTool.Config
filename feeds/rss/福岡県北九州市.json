@@ -4,6 +4,7 @@
   "url": "https://www.city.kitakyushu.lg.jp/index.rdf",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

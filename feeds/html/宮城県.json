@@ -4,6 +4,7 @@
   "url": "https://www.pref.miyagi.jp/soshiki/kohou/r6publiccom.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

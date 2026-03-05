@@ -4,6 +4,7 @@
   "url": "https://www.city.meguro.tokyo.jp/kusei/kouchou/publiccomment/boshu/index.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

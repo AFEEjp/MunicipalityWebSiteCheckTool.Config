@@ -4,6 +4,7 @@
   "url": "https://www.pref.kochi.lg.jp/category/bunya/kenseijoho/public_comment/",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

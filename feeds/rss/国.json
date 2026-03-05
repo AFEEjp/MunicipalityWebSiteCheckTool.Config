@@ -4,6 +4,7 @@
   "url": "https://public-comment.e-gov.go.jp/rss/pcm_list.xml",
   "type": "rss",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

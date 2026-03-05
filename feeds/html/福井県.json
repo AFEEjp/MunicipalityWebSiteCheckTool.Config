@@ -4,6 +4,7 @@
   "url": "https://www.pref.fukui.lg.jp/doc/kouho/pabukome/publicjissi2.html",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }

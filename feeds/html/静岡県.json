@@ -4,6 +4,7 @@
   "url": "https://www2.pref.shizuoka.jp/all/shingi.nsf/seikei_itiran",
   "type": "html",
   "temporaryDisabled": false,
+  "cadence": "normal",
   "state": {
     "maxSeen": 500
   }
