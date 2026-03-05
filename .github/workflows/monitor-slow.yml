@@ -1,0 +1,21 @@
+name: monitor-slow
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitor-slow
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    uses: ./.github/workflows/monitor-feed-reusable.yml
+    with:
+      cadence: slow
+      commit-suffix: slow
+    secrets: inherit

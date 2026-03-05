@@ -1,0 +1,21 @@
+name: monitor-fast
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitor-fast
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    uses: ./.github/workflows/monitor-feed-reusable.yml
+    with:
+      cadence: fast
+      commit-suffix: fast
+    secrets: inherit

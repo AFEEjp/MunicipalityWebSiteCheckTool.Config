@@ -1,0 +1,21 @@
+name: monitor-normal
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: monitor-normal
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    uses: ./.github/workflows/monitor-feed-reusable.yml
+    with:
+      cadence: normal
+      commit-suffix: normal
+    secrets: inherit

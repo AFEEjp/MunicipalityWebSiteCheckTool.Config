@@ -1,0 +1,96 @@
+name: monitor-feed-reusable
+
+on:
+  workflow_call:
+    inputs:
+      cadence:
+        description: feed 監視の cadence
+        required: true
+        type: string
+      commit-suffix:
+        description: monitor-state 更新コミットの識別子
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    env:
+      MONITOR_RUNTIME_ASSET_URL: https://github.com/AFEEjp/MunicipalityWebSiteCheckTool/releases/download/monitor-runtime/MunicipalityWebSiteCheckTool-linux-x64.zip
+      DISCORD_WEBHOOK_PUBCOM: ${{ secrets.DISCORD_WEBHOOK_PUBCOM }}
+      DISCORD_WEBHOOK_ERROR: ${{ secrets.DISCORD_WEBHOOK_ERROR }}
+      DISCORD_WEBHOOK_PUBCOM_SUB: ${{ secrets.DISCORD_WEBHOOK_PUBCOM_SUB }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Prepare state directory
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Path ./state -Force | Out-Null
+
+      - name: Restore monitor-state branch
+        shell: pwsh
+        run: |
+          if ((git ls-remote --heads origin monitor-state)) {
+            git fetch origin monitor-state
+            $hasStateDirectory = git ls-tree --name-only origin/monitor-state state
+            if ($hasStateDirectory) {
+              git archive origin/monitor-state state | tar -xf -
+            }
+          }
+
+      - name: Download monitor runtime release asset
+        shell: bash
+        run: |
+          curl -fL "$MONITOR_RUNTIME_ASSET_URL" -o ./monitor-runtime.zip
+
+      - name: Extract monitor runtime
+        shell: bash
+        run: |
+          unzip -o ./monitor-runtime.zip -d ./publish
+          chmod +x ./publish/MunicipalityWebSiteCheckTool
+
+      - name: Run feed monitor
+        run: >
+          ./publish/MunicipalityWebSiteCheckTool
+          --mode feed
+          --cadence ${{ inputs.cadence }}
+          --feeds-dir ./feeds
+          --pages-dir ./pages
+          --feed-settings ./feed-settings.json
+          --state-dir ./state
+
+      - name: Update monitor-state branch
+        if: always()
+        shell: pwsh
+        run: |
+          $tempStatePath = Join-Path $env:RUNNER_TEMP "monitor-state-${{ inputs.commit-suffix }}"
+          if (Test-Path $tempStatePath) {
+            Remove-Item -Recurse -Force $tempStatePath
+          }
+          Copy-Item -Path ./state -Destination $tempStatePath -Recurse -Force
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          $currentBranch = git branch --show-current
+          git switch --orphan monitor-state-temp
+          git rm -r --ignore-unmatch . | Out-Null
+          if (Test-Path ./state) {
+            Remove-Item -Recurse -Force ./state
+          }
+          Copy-Item -Path $tempStatePath -Destination ./state -Recurse -Force
+          Set-Content -Path ./README.md -Value "# monitor-state`n`nstate files managed by GitHub Actions."
+          git add state README.md
+          if ((git status --short)) {
+            git commit -m "Update monitor state (${{ inputs.commit-suffix }})"
+            git branch -M monitor-state
+            git push origin monitor-state --force
+          }
+          git switch $currentBranch
