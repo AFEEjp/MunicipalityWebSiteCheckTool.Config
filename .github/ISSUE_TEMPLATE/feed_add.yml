@@ -38,6 +38,7 @@ body:
         - fast
         - normal
         - slow
+      default: 1
     validations:
       required: true
   - type: input
