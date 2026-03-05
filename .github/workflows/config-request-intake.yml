@@ -191,6 +191,28 @@ jobs:
             return $null
           }
 
+          function Find-FeedByNameAndUrl {
+            param(
+              [string]$RootPath,
+              [string]$Name,
+              [string]$Url
+            )
+            foreach ($file in (Get-ChildItem -Path $RootPath -Recurse -File -Filter *.json)) {
+              try {
+                $json = Get-Content -Raw -Path $file.FullName | ConvertFrom-Json
+              } catch {
+                continue
+              }
+              if (
+                [string]::Equals([string]$json.name, $Name, [System.StringComparison]::OrdinalIgnoreCase) -and
+                [string]::Equals([string]$json.url, $Url, [System.StringComparison]::OrdinalIgnoreCase)
+              ) {
+                return $file.FullName
+              }
+            }
+            return $null
+          }
+
           function Write-JsonFile {
             param([string]$Path, $Object)
             $dir = Split-Path -Path $Path -Parent
@@ -244,36 +266,43 @@ jobs:
                 throw "cadenceが不正です: $cadence"
               }
 
-              $hashInput = "$name`n$url".ToLowerInvariant()
-              $bytes = [System.Text.Encoding]::UTF8.GetBytes($hashInput)
-              $hashBytes = [System.Security.Cryptography.SHA256]::HashData($bytes)
-              $id = -join ($hashBytes | ForEach-Object { $_.ToString("x2") })
-              $maxSeen = To-IntOrDefault $maxSeenRaw 500
-              $fileName = "$(Normalize-FileName $name).json"
-              $targetPath = Join-Path -Path (Join-Path -Path "." -ChildPath "feeds/$feedType") -ChildPath $fileName
+              $existingPath = Find-FeedByNameAndUrl -RootPath "./feeds" -Name $name -Url $url
+              if (-not [string]::IsNullOrWhiteSpace($existingPath)) {
+                Write-Host "同一の name+url が既に存在するため、Feed追加はスキップします: $existingPath"
+                # 既存のID/状態を壊さないため、既存設定には触れない
+                # ここで何も書き込まなければ最終的に差分なしとなり、PRは作成されない
+              } else {
+                $hashInput = "$name`n$url".ToLowerInvariant()
+                $bytes = [System.Text.Encoding]::UTF8.GetBytes($hashInput)
+                $hashBytes = [System.Security.Cryptography.SHA256]::HashData($bytes)
+                $id = -join ($hashBytes | ForEach-Object { $_.ToString("x2") })
+                $maxSeen = To-IntOrDefault $maxSeenRaw 500
+                $fileName = "$(Normalize-FileName $name).json"
+                $targetPath = Join-Path -Path (Join-Path -Path "." -ChildPath "feeds/$feedType") -ChildPath $fileName
 
-              $feed = [pscustomobject]@{
-                id = $id
-                name = $name
-                url = $url
-                type = $feedType
-                temporaryDisabled = $false
-                cadence = $cadence
-                state = [pscustomobject]@{
-                  maxSeen = $maxSeen
+                $feed = [pscustomobject]@{
+                  id = $id
+                  name = $name
+                  url = $url
+                  type = $feedType
+                  temporaryDisabled = $false
+                  cadence = $cadence
+                  state = [pscustomobject]@{
+                    maxSeen = $maxSeen
+                  }
                 }
-              }
 
-              if ($matchFirst.Count -gt 0 -or $matchSecond.Count -gt 0 -or $matchExclude.Count -gt 0) {
-                $match = [pscustomobject]@{}
-                if ($matchFirst.Count -gt 0) { $match | Add-Member -NotePropertyName first -NotePropertyValue @($matchFirst) }
-                if ($matchSecond.Count -gt 0) { $match | Add-Member -NotePropertyName second -NotePropertyValue @($matchSecond) }
-                if ($matchExclude.Count -gt 0) { $match | Add-Member -NotePropertyName exclude -NotePropertyValue @($matchExclude) }
-                $feed | Add-Member -NotePropertyName match -NotePropertyValue $match
+                if ($matchFirst.Count -gt 0 -or $matchSecond.Count -gt 0 -or $matchExclude.Count -gt 0) {
+                  $match = [pscustomobject]@{}
+                  if ($matchFirst.Count -gt 0) { $match | Add-Member -NotePropertyName first -NotePropertyValue @($matchFirst) }
+                  if ($matchSecond.Count -gt 0) { $match | Add-Member -NotePropertyName second -NotePropertyValue @($matchSecond) }
+                  if ($matchExclude.Count -gt 0) { $match | Add-Member -NotePropertyName exclude -NotePropertyValue @($matchExclude) }
+                  $feed | Add-Member -NotePropertyName match -NotePropertyValue $match
+                }
+                Set-OptionalProperty $feed "webhookKey" $webhookKey
+                Set-OptionalProperty $feed "notes" $notes
+                Write-JsonFile -Path $targetPath -Object $feed
               }
-              Set-OptionalProperty $feed "webhookKey" $webhookKey
-              Set-OptionalProperty $feed "notes" $notes
-              Write-JsonFile -Path $targetPath -Object $feed
             } else {
               $feedId = Get-Field $fields "対象Feed ID"
               $action = Get-Field $fields "変更種別"
