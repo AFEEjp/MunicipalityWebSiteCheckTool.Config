@@ -1,0 +1,27 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.katsushika.lg.jp/opinions/1009924.html",
+  "feedType": "html",
+  "updatedUtc": "2026-03-08T05:56:43.1790029+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "0f3c3b72f3a90288124243f2425fc9b2",
+      "title": "\u845B\u98FE\u533A\u5B50\u3069\u3082\u30FB\u82E5\u8005\u7DCF\u5408\u8A08\u753B\uFF08\u7D20\u6848\uFF09\u306B\u5BFE\u3059\u308B\u533A\u6C11\u610F\u898B\u63D0\u51FA\u624B\u7D9A\uFF08\u30D1\u30D6\u30EA\u30C3\u30AF\u30FB\u30B3\u30E1\u30F3\u30C8\u624B\u7D9A\uFF09\u306E\u5B9F\u65BD\u7D50\u679C\u52DF\u96C6\u7D50\u679C\u306F\u3053\u3061\u3089\u3092\u3054\u89A7\u304F\u3060\u3055\u3044\u3002",
+      "firstSeenAt": "2026-03-05T04:48:36.6924843+00:00"
+    },
+    {
+      "key": "cb3a93bdbf6d4f56aae7c899f6fedbbb",
+      "title": "\uFF08\u4EEE\u79F0\uFF09\u845B\u98FE\u533A\u5B50\u3069\u3082\u306E\u6A29\u5229\u6761\u4F8B\uFF08\u7D20\u6848\uFF09\u306B\u5BFE\u3059\u308B\u533A\u6C11\u610F\u898B\u63D0\u51FA\u624B\u7D9A\uFF08\u30D1\u30D6\u30EA\u30C3\u30AF\u30FB\u30B3\u30E1\u30F3\u30C8\u624B\u7D9A\uFF09\u306E\u5B9F\u65BD\u7D50\u679C\u306B\u3064\u3044\u3066\u52DF\u96C6\u7D50\u679C\u306F\u3053\u3061\u3089\u3092\u3054\u89A7\u304F\u3060\u3055\u3044\u3002",
+      "firstSeenAt": "2026-03-05T04:48:36.8565844+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u0022bcf4-64c7ad743a54a\u0022",
+    "lastModifiedUtc": "2026-03-08T03:25:41Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

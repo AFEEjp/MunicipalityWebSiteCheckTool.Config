@@ -1,0 +1,16 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.nagasaki.jp/feed/index.xml",
+  "feedType": "rss",
+  "updatedUtc": "2026-03-08T05:57:01.5275001+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {
+    "eTag": "\u00229977-64c7c9400ccc0-gzip\u0022",
+    "lastModifiedUtc": "2026-03-08T05:30:03Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

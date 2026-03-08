@@ -1,0 +1,62 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.iwate.jp/public_comment/1073736/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-03-08T05:56:36.9914716+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "9788d3fa0a117ac6cac5c6bcba4c4da9",
+      "title": "\u5CA9\u624B\u770C\u5B50\u3069\u3082\u30FB\u5B50\u80B2\u3066\u652F\u63F4\u4E8B\u696D\u652F\u63F4\u8A08\u753B\uFF082025\uFF5E2029\uFF09\u306E\u7D20\u6848\u306B\u3064\u3044\u3066\u306E\u610F\u898B\u52DF\u96C6",
+      "firstSeenAt": "2026-03-05T04:47:24.7743646+00:00"
+    },
+    {
+      "key": "656931c8177ce82ac74504c1a0b53925",
+      "title": "\u5CA9\u624B\u770C\u5B50\u3069\u3082\u30FB\u5B50\u80B2\u3066\u652F\u63F4\u4E8B\u696D\u652F\u63F4\u8A08\u753B\uFF082025\uFF5E2029\uFF09\u306E\u7D20\u6848\u306B\u3064\u3044\u3066\u306E\u610F\u898B\u52DF\u96C6 \u52DF\u96C6\u6982\u8981\u3092\u898B\u308B",
+      "firstSeenAt": "2026-03-05T04:47:25.2369822+00:00"
+    },
+    {
+      "key": "532664f3d06cf80143545f381a19d3e5",
+      "title": "\u5CA9\u624B\u770C\u5B50\u3069\u3082\u30FB\u5B50\u80B2\u3066\u652F\u63F4\u4E8B\u696D\u652F\u63F4\u8A08\u753B\uFF082025\uFF5E2029\uFF09\u306E\u7D20\u6848\u306B\u3064\u3044\u3066\u306E\u610F\u898B\u52DF\u96C6 \u52DF\u96C6\u7D50\u679C\u3092\u898B\u308B",
+      "firstSeenAt": "2026-03-05T04:47:25.3905521+00:00"
+    },
+    {
+      "key": "ea1140357355d0573b6ef3279d42cc0c",
+      "title": "\u7B2C4\u671F\u5CA9\u624B\u770C\u6587\u5316\u82B8\u8853\u632F\u8208\u6307\u91DD\uFF08\u7D20\u6848\uFF09\u306B\u3064\u3044\u3066\u306E\u610F\u898B\u52DF\u96C6\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-05T04:47:25.4923884+00:00"
+    },
+    {
+      "key": "5e52334561a8d7650df3ee9cd54f3cdb",
+      "title": "\u7B2C4\u671F\u5CA9\u624B\u770C\u6587\u5316\u82B8\u8853\u632F\u8208\u6307\u91DD\uFF08\u7D20\u6848\uFF09\u306B\u3064\u3044\u3066\u306E\u610F\u898B\u52DF\u96C6\u306B\u3064\u3044\u3066 \u52DF\u96C6\u6982\u8981\u3092\u898B\u308B",
+      "firstSeenAt": "2026-03-05T04:47:25.5868491+00:00"
+    },
+    {
+      "key": "237451fdc1c3be068e3f5e2220e44be1",
+      "title": "\u7B2C4\u671F\u5CA9\u624B\u770C\u6587\u5316\u82B8\u8853\u632F\u8208\u6307\u91DD\uFF08\u7D20\u6848\uFF09\u306B\u3064\u3044\u3066\u306E\u610F\u898B\u52DF\u96C6\u306B\u3064\u3044\u3066 \u52DF\u96C6\u7D50\u679C\u3092\u898B\u308B",
+      "firstSeenAt": "2026-03-05T04:47:25.7760075+00:00"
+    },
+    {
+      "key": "895e7df09538511d4a13df9e88ffd717",
+      "title": "\u3044\u308F\u3066\u3053\u3069\u3082\u30D7\u30E9\u30F3\uFF082025\uFF5E2029\uFF09\uFF08\u7D20\u6848\uFF09\u306B\u3064\u3044\u3066\u306E\u610F\u898B\u52DF\u96C6",
+      "firstSeenAt": "2026-03-05T04:47:25.9191955+00:00"
+    },
+    {
+      "key": "b47610fb7ff46355f790d286d5ab13ea",
+      "title": "\u3044\u308F\u3066\u3053\u3069\u3082\u30D7\u30E9\u30F3\uFF082025\uFF5E2029\uFF09\uFF08\u7D20\u6848\uFF09\u306B\u3064\u3044\u3066\u306E\u610F\u898B\u52DF\u96C6 \u52DF\u96C6\u6982\u8981\u3092\u898B\u308B",
+      "firstSeenAt": "2026-03-05T04:47:26.0728159+00:00"
+    },
+    {
+      "key": "d3739d75d45d0b831af7753da664b266",
+      "title": "\u3044\u308F\u3066\u3053\u3069\u3082\u30D7\u30E9\u30F3\uFF082025\uFF5E2029\uFF09\uFF08\u7D20\u6848\uFF09\u306B\u3064\u3044\u3066\u306E\u610F\u898B\u52DF\u96C6 \u52DF\u96C6\u7D50\u679C\u3092\u898B\u308B",
+      "firstSeenAt": "2026-03-05T04:47:28.5051257+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u0022dfa8-64c7c717e98ce\u0022",
+    "lastModifiedUtc": "2026-03-08T05:20:24Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

@@ -1,0 +1,13 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www2.pref.shizuoka.jp/all/shingi.nsf/seikei_itiran",
+  "feedType": "html",
+  "updatedUtc": "2026-03-08T05:56:50.2161516+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {},
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

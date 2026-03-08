@@ -1,0 +1,13 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.tokushima.lg.jp/public_comment/",
+  "feedType": "html",
+  "updatedUtc": "2026-03-08T05:56:37.3956104+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {},
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

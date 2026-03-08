@@ -1,0 +1,26 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.koganei.lg.jp/rss_news.xml",
+  "feedType": "rss",
+  "updatedUtc": "2026-03-08T05:56:58.2735109+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "8a2bd011eb7d06bd2efc447f605bcf9f",
+      "title": "\uFF08\u4EEE\u79F0\uFF09\u5C0F\u91D1\u4E95\u5E02\u7B2C7\u6B21\u7537\u5973\u5171\u540C\u53C2\u753B\u884C\u52D5\u8A08\u753B\uFF08\u7D20\u6848\uFF09\u306B\u5BFE\u3059\u308B\u30D1\u30D6\u30EA\u30C3\u30AF\u30B3\u30E1\u30F3\u30C8\u53CA\u3073\u691C\u8A0E\u7D50\u679C\u306E\u516C\u8868",
+      "firstSeenAt": "2026-03-05T04:51:32.1241499+00:00"
+    },
+    {
+      "key": "135057f8d63710d5b1558e143bcc91d7",
+      "title": "\u4EA4\u901A\u30CD\u30C3\u30C8\u30EF\u30FC\u30AF\u518D\u7DE8\u4E8B\u696D\u306B\u4FC2\u308B\u5E02\u5357\u90E8\uFF08\u4E2D\u753A\u5FAA\u74B0\u30FB\u6771\u753A\u5FAA\u74B0\uFF09\u306E\u518D\u7DE8\uFF08\u6848\uFF09\u306B\u5BFE\u3059\u308B\u610F\u898B\u53CA\u3073\u691C\u8A0E\u7D50\u679C\u306E\u516C\u8868",
+      "firstSeenAt": "2026-03-05T04:51:32.2271319+00:00"
+    }
+  ],
+  "httpCache": {
+    "lastModifiedUtc": "2026-03-08T03:30:05Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

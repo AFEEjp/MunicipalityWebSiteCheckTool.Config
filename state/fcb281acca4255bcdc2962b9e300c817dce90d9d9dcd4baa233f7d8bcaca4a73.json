@@ -1,0 +1,16 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.taito.lg.jp/kusei/sanka/publiccomment/pabukome.html",
+  "feedType": "html",
+  "updatedUtc": "2026-03-08T05:56:38.2791721+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {
+    "eTag": "\u0022544c-6461d13cf3198\u0022",
+    "lastModifiedUtc": "2025-12-17T03:02:40Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

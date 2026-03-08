@@ -1,0 +1,62 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.hiroshima.lg.jp/shisei/kouchou/1021836/1027503/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-03-08T05:56:35.7757752+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "3bd0a3182275a53cadd352dc53c20c4c",
+      "title": "\u7B2C4\u6B21\u5E83\u5CF6\u5E02\u7537\u5973\u5171\u540C\u53C2\u753B\u57FA\u672C\u8A08\u753B\uFF08\u7D20\u6848\uFF09\u306B\u5BFE\u3059\u308B\u5E02\u6C11\u610F\u898B\u52DF\u96C6\u306E\u7D50\u679C",
+      "firstSeenAt": "2026-03-05T04:47:32.2976688+00:00"
+    },
+    {
+      "key": "350ca6cb464c73e42b0c044a3e438d98",
+      "title": "\u3010\u52DF\u96C6\u306F\u7D42\u4E86\u3057\u307E\u3057\u305F\u3011\u7B2C4\u6B21\u5E83\u5CF6\u5E02\u7537\u5973\u5171\u540C\u53C2\u753B\u57FA\u672C\u8A08\u753B\uFF08\u7D20\u6848\uFF09\u306B\u5BFE\u3059\u308B\u5E02\u6C11\u610F\u898B\u52DF\u96C6",
+      "firstSeenAt": "2026-03-05T04:47:32.4481689+00:00"
+    },
+    {
+      "key": "fba048baec65fe121c4ba04555cacf52",
+      "title": "\u5E83\u5CF6\u5E02\u3053\u3069\u3082\u30FB\u82E5\u8005\u8A08\u753B\uFF08\u4EEE\u79F0\uFF09\u7D20\u6848\u306B\u5BFE\u3059\u308B\u5E02\u6C11\u610F\u898B\u52DF\u96C6\u306E\u7D50\u679C",
+      "firstSeenAt": "2026-03-05T04:47:32.6031106+00:00"
+    },
+    {
+      "key": "0e9c0d65997dd0cd0539d0422a7554ee",
+      "title": "\u300C\u5E83\u5CF6\u5E02\u3053\u3069\u3082\u30FB\u82E5\u8005\u8A08\u753B\u300D\u306B\u5BFE\u3059\u308B\u3053\u3069\u3082\u30FB\u82E5\u8005\u610F\u898B\u306E\u307C\u96C6\u7D50\u679C",
+      "firstSeenAt": "2026-03-05T04:47:32.7005994+00:00"
+    },
+    {
+      "key": "f6ab31033332bfd0662b118493101dce",
+      "title": "\u3010\u307C\u96C6\u306F\u7D42\u308F\u308A\u307E\u3057\u305F\u3011\u3053\u3069\u3082\u30FB\u82E5\u8005\u306E\u307F\u306A\u3055\u3093\u3078\u300C\u5E83\u5CF6\u5E02\u3053\u3069\u3082\u30FB\u82E5\u8005\u8A08\u753B\u300D\u306B\u3064\u3044\u3066\u610F\u898B\u3092\u307C\u96C6\u3057\u307E\u3059\uFF01",
+      "firstSeenAt": "2026-03-05T04:47:32.8753935+00:00"
+    },
+    {
+      "key": "c6c04b48e337253f39e86ede5e6b020e",
+      "title": "\u3010\u52DF\u96C6\u306F\u7D42\u4E86\u3057\u307E\u3057\u305F\u3011\u5E83\u5CF6\u5E02\u3053\u3069\u3082\u30FB\u82E5\u8005\u8A08\u753B(\u4EEE\u79F0)\u306E\u7D20\u6848\u306B\u5BFE\u3059\u308B\u5E02\u6C11\u610F\u898B\u3092\u52DF\u96C6\u3057\u307E\u3059",
+      "firstSeenAt": "2026-03-05T04:47:32.9899407+00:00"
+    },
+    {
+      "key": "e7327e811cb1a1146492a8dc2348fc23",
+      "title": "\u5150\u7AE5\u624B\u5F53\u53C8\u306F\u7279\u4F8B\u7D66\u4ED8\u306E\u652F\u7D66\u306B\u95A2\u3059\u308B\u4E8B\u52D9\u306B\u4FC2\u308B\u5168\u9805\u76EE\u8A55\u4FA1\u66F8\uFF08\u6848\uFF09\u306B\u5BFE\u3059\u308B\u5E02\u6C11\u610F\u898B\u306E\u52DF\u96C6\u7D50\u679C",
+      "firstSeenAt": "2026-03-05T04:47:33.1517156+00:00"
+    },
+    {
+      "key": "4b681aeff533b2855741aca6fc3186c8",
+      "title": "\u5E83\u5CF6\u5E02\u3053\u3069\u3082\u6587\u5316\u79D1\u5B66\u9928\u5C55\u793A\u30EA\u30CB\u30E5\u30FC\u30A2\u30EB\u57FA\u672C\u69CB\u60F3\uFF08\u6848\uFF09\u306B\u5BFE\u3059\u308B\u5E02\u6C11\u610F\u898B\u52DF\u96C6\u7D50\u679C",
+      "firstSeenAt": "2026-03-05T04:47:35.2895028+00:00"
+    },
+    {
+      "key": "606cbdfb83c7019c8a739abb5ed5872e",
+      "title": "\u7B2C3\u6B21\u5E83\u5CF6\u5E02\u7537\u5973\u5171\u540C\u53C2\u753B\u57FA\u672C\u8A08\u753B\uFF08\u7D20\u6848\uFF09\u306B\u5BFE\u3059\u308B\u5E02\u6C11\u610F\u898B\u52DF\u96C6\u306E\u7D50\u679C",
+      "firstSeenAt": "2026-03-05T04:47:35.4524128+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u0022f3d9-64c7abf458f8b\u0022",
+    "lastModifiedUtc": "2026-03-08T03:18:58Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

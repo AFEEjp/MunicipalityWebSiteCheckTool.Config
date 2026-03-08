@@ -1,0 +1,19 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.tsuyama.lg.jp/articleList?tabType=all\u0026articleListContentsType=latest",
+  "feedType": "browser",
+  "updatedUtc": "2026-03-08T05:56:31.8887954+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "44d4ba11223f1b11e0d001854064c59d",
+      "title": "\u4E8B\u696D\u8005 2026/03/05 \u5951\u7D04\u76E3\u7406\u5BA4\u304B\u3089\u306E\u304A\u77E5\u3089\u305B\uFF08\u4EE4\u548C\uFF17\u5E74\u5EA6\uFF09 .st0{fill:#808080;} 6673 views",
+      "firstSeenAt": "2026-03-05T11:49:36.8105953+00:00"
+    }
+  ],
+  "httpCache": {},
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

@@ -1,0 +1,52 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.gifu.lg.jp/page/203.html",
+  "feedType": "html",
+  "updatedUtc": "2026-03-08T05:56:34.2084477+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "d5717e66f0838a1dfa7c35e3b08b0e15",
+      "title": "\u5C90\u961C\u770C\u3053\u3069\u3082\u306E\u8CA7\u56F0\u5BFE\u7B56\u5B9F\u884C\u8A08\u753B\uFF08\u7D20\u6848\uFF09",
+      "firstSeenAt": "2026-03-05T04:47:12.2448826+00:00"
+    },
+    {
+      "key": "72fe00cb4cd737196ece98377f95c9f7",
+      "title": "\u5C90\u961C\u770C\u5B50\u3069\u3082\u306E\u8AAD\u66F8\u6D3B\u52D5\u63A8\u9032\u8A08\u753B\uFF08\u7B2C\u4E94\u6B21\uFF09\uFF08\u6848\uFF09",
+      "firstSeenAt": "2026-03-05T04:47:12.3927656+00:00"
+    },
+    {
+      "key": "739ba470b06a5ed2d86896ce9da014a8",
+      "title": "\u7B2C5\u6B21\u5C90\u961C\u770C\u9752\u5C11\u5E74\u5065\u5168\u80B2\u6210\u8A08\u753B\uFF08\u6848\uFF09",
+      "firstSeenAt": "2026-03-05T04:47:12.5681651+00:00"
+    },
+    {
+      "key": "d781e47279121823c2aabb3afb9d8511",
+      "title": "\u5C90\u961C\u770C\u3053\u3069\u3082\u8A08\u753B\uFF08\u6848\uFF09",
+      "firstSeenAt": "2026-03-05T04:47:12.6573996+00:00"
+    },
+    {
+      "key": "8924b32ba195d6f4a814562b62dd49c7",
+      "title": "\u300C\u5C90\u961C\u770C\u306E\u6559\u80B2\u3001\u5B66\u8853\u3001\u6587\u5316\u53CA\u3073\u30B9\u30DD\u30FC\u30C4\u306E\u632F\u8208\u306B\u95A2\u3059\u308B\u5927\u7DB1\u300D\uFF08\u7D20\u6848\uFF09",
+      "firstSeenAt": "2026-03-05T04:47:12.8057591+00:00"
+    },
+    {
+      "key": "bfefa229812d72d9c6e0f71a21af8747",
+      "title": "\u7B2C2\u671F\u5C90\u961C\u770C\u30AE\u30E3\u30F3\u30D6\u30EB\u7B49\u4F9D\u5B58\u75C7\u5BFE\u7B56\u63A8\u9032\u8A08\u753B\uFF08\u7D20\u6848\uFF09",
+      "firstSeenAt": "2026-03-05T04:47:12.9187456+00:00"
+    },
+    {
+      "key": "fb9d0ea98da8ce9b2e45f615707166b2",
+      "title": "\u5C90\u961C\u770C\u7537\u5973\u5171\u540C\u53C2\u753B\u8A08\u753B\uFF08\u7B2C5\u6B21\uFF09\uFF08\u6848\uFF09",
+      "firstSeenAt": "2026-03-05T04:47:15.0715196+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u0022ab58-64c7ab2413221\u0022",
+    "lastModifiedUtc": "2026-03-08T03:15:20Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

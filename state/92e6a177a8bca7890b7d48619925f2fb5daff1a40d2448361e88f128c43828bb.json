@@ -1,0 +1,34 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.kitakyushu.lg.jp/contents/924_01294.html",
+  "feedType": "html",
+  "updatedUtc": "2026-03-08T05:56:47.5714655+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "d5eedcc0b1497a71f10dcdc9affd927a",
+      "title": "\u5317\u4E5D\u5DDE\u5E02\u6587\u5316\u82B8\u8853\u63A8\u9032\u30D7\u30E9\u30F3\uFF08\u7D20\u6848\uFF09",
+      "firstSeenAt": "2026-03-05T04:49:27.5758574+00:00"
+    },
+    {
+      "key": "386edb8cbefcbfe9f1c0f9589978b19a",
+      "title": "\u300C\u5B50\u3069\u3082\u61B2\u7AE0\u300D\uFF08\u7D20\u6848\uFF09",
+      "firstSeenAt": "2026-03-05T04:49:29.8184654+00:00"
+    },
+    {
+      "key": "5099ce5986adae08174b5cd949cf733a",
+      "title": "\u7B2C5\u6B21\u5317\u4E5D\u5DDE\u5E02\u7537\u5973\u5171\u540C\u53C2\u753B\u57FA\u672C\u8A08\u753B\uFF08\u7D20\u6848\uFF09",
+      "firstSeenAt": "2026-03-05T04:49:32.021497+00:00"
+    },
+    {
+      "key": "2c1a59e3e9b2761398d52cc360bb339a",
+      "title": "\u5317\u4E5D\u5DDE\u5E02\u3053\u3069\u3082\u307E\u3093\u306A\u304B\u6559\u80B2\u30D7\u30E9\u30F3\uFF08\u6848\uFF09",
+      "firstSeenAt": "2026-03-05T04:49:34.314713+00:00"
+    }
+  ],
+  "httpCache": {},
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

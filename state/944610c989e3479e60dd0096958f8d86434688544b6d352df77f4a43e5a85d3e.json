@@ -1,0 +1,36 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.hokkaido.lg.jp/category/d001/c002/s003/",
+  "feedType": "html",
+  "updatedUtc": "2026-03-08T05:56:26.5800813+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "f7f2a754aa39a7611978cefc3a5a5a98",
+      "title": "\u3053\u3069\u3082\u306E\u3044\u3051\u3093\uFF08\u8A08\u753B\u3078\u306E\u610F\u898B\u52DF\u96C6\uFF09\u5B50\u3069\u3082\u653F\u7B56\u4F01\u753B\u8AB2",
+      "firstSeenAt": "2026-03-05T04:46:27.7178108+00:00"
+    },
+    {
+      "key": "bd93dc53feb3a42debaf38f54ba25d14",
+      "title": "\u5317\u6D77\u9053\u306B\u304A\u3051\u308B\u7E04\u6587\u4E16\u754C\u907A\u7523\u306B\u4FC2\u308B\u95A2\u9023\u4E8B\u696D\u306E\u5168\u4F53\u8A08\u753B\uFF08\u7D20\u6848\uFF09\u306B\u5BFE\u3059\u308B\u9053\u6C11\u610F\u898B\u306E\u52DF\u96C6\u306B\u3064\u3044\u3066\uFF08\u610F\u898B\u52DF\u96C6\u306F\u7D42\u4E86\u3057\u307E\u3057\u305F\uFF09\u74B0\u5883\u751F\u6D3B\u90E8\u6587\u5316\u632F\u8208\u8AB2",
+      "firstSeenAt": "2026-03-05T04:46:27.839186+00:00"
+    },
+    {
+      "key": "40c2ec8b268f180d7a0ba2d919bb947e",
+      "title": "\u7B2C\uFF13\u671F\u5317\u6D77\u9053\u30A2\u30EB\u30B3\u30FC\u30EB\u5065\u5EB7\u969C\u5BB3\u5BFE\u7B56\u63A8\u9032\u8A08\u753B\uFF08\u7D20\u6848\uFF09\u53CA\u3073\u7B2C\uFF13\u671F\u5317\u6D77\u9053\u30AE\u30E3\u30F3\u30D6\u30EB\u7B49\u4F9D\u5B58\u75C7\u5BFE\u7B56\u63A8\u9032\u8A08\u753B\uFF08\u7D20\u6848\uFF09\u306B\u5BFE\u3059\u308B\u9053\u6C11\u610F\u898B\u306E\u52DF\u96C6\u7D50\u679C\u306B\u3064\u3044\u3066\u4FDD\u5065\u798F\u7949\u90E8\u969C\u304C\u3044\u8005\u4FDD\u5065\u798F\u7949\u8AB2",
+      "firstSeenAt": "2026-03-05T04:46:27.949796+00:00"
+    },
+    {
+      "key": "4368cc3e460a57a435606efcd475d79c",
+      "title": "\u4EE4\u548C\uFF16\u5E74\u5EA6\u30FB\u3053\u3069\u3082\u306E\u3044\u3051\u3093\uFF08\u8A08\u753B\u7B49\u3078\u306E\u610F\u898B\u52DF\u96C6\uFF09\u306E\u7D50\u679C\u5B50\u3069\u3082\u653F\u7B56\u4F01\u753B\u8AB2",
+      "firstSeenAt": "2026-03-05T04:46:28.0563838+00:00"
+    }
+  ],
+  "httpCache": {
+    "lastModifiedUtc": "2026-03-06T07:20:11Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

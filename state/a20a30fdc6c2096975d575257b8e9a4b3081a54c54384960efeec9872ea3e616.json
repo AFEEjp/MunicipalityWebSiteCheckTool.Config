@@ -1,0 +1,22 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.miyazaki.lg.jp/kense/koho/p-comment/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-03-08T05:56:33.6198028+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "399650cd4547f44652624382ffd8f334",
+      "title": "\u300C\u5BAE\u5D0E\u770C\u3053\u3069\u3082\u8A08\u753B\uFF08\u4EEE\u79F0\uFF09\u306E\u7D20\u6848\u300D\u306B\u5BFE\u3059\u308B\u610F\u898B\u52DF\u96C6\uFF08\u30D1\u30D6\u30EA\u30C3\u30AF\u30FB\u30B3\u30E1\u30F3\u30C8\uFF09\u306E\u7D50\u679C\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-05T04:47:02.5420219+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u00226357-64badf96868b1\u0022",
+    "lastModifiedUtc": "2026-02-25T23:00:46Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

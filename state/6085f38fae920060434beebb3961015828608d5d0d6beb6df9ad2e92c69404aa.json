@@ -1,0 +1,16 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.koto.lg.jp/kuse/kocho/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-03-08T05:56:41.0861607+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {
+    "eTag": "\u0022357f-64c41e7e08a39\u0022",
+    "lastModifiedUtc": "2026-03-05T07:30:07Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}
