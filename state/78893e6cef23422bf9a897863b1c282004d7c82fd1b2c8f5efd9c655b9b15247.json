@@ -1,0 +1,15 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.tottori.lg.jp/services/rdf/rss10/3902.ashx",
+  "feedType": "rss",
+  "updatedUtc": "2026-03-15T19:40:00.9127501+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {
+    "lastModifiedUtc": "2026-03-15T19:40:00Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

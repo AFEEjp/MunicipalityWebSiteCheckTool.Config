@@ -1,0 +1,22 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_bosyuu_index.rss",
+  "feedType": "rss",
+  "updatedUtc": "2026-03-15T19:39:57.3480398+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "43109f15e049e0777719fd3c2075dd41",
+      "title": "\uFF08\u4EEE\u79F0\uFF09\u30D1\u30FC\u30C8\u30CA\u30FC\u3057\u304C\u30D7\u30E9\u30F32030\uFF08\u6ECB\u8CC0\u770C\u7537\u5973\u5171\u540C\u53C2\u753B\u8A08\u753B\u30FB\u6ECB\u8CC0\u770C\u5973\u6027\u6D3B\u8E8D\u63A8\u9032\u8A08\u753B\uFF09\uFF08\u539F\u6848\uFF09\u306B\u5BFE\u3059\u308B\u5FA1\u610F\u898B\u30FB\u60C5\u5831\u306E\u52DF\u96C6\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-05T04:51:55.205992+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u0022e80f-64d150f09cc62\u0022",
+    "lastModifiedUtc": "2026-03-15T19:25:02Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

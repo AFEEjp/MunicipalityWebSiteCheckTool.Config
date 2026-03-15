@@ -1,0 +1,32 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.chiba.lg.jp/cate/kt/kenminsanka/ikenboshuu/iken/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-03-15T19:39:10.2038743+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "96bb935c32e3e398754bd4a6c2a77530",
+      "title": "\u5343\u8449\u770C\u3053\u3069\u3082\u30FB\u82E5\u8005\u307F\u3089\u3044\u30D7\u30E9\u30F3\u306E\u5909\u66F4\u6848\u306B\u95A2\u3059\u308B\u610F\u898B\u52DF\u96C6\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-05T04:46:29.4868671+00:00"
+    },
+    {
+      "key": "c02658262619b63424a5c56eccc40fd2",
+      "title": "\u7B2C6\u6B21\u5343\u8449\u770C\u7537\u5973\u5171\u540C\u53C2\u753B\u8A08\u753B\uFF08\u539F\u6848\uFF09\u306B\u95A2\u3059\u308B\u610F\u898B\u52DF\u96C6\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-05T04:46:29.5865864+00:00"
+    },
+    {
+      "key": "a1eef4b14057f8b8d12a770885d43006",
+      "title": "\u300C\u5343\u8449\u770C\u4EBA\u6A29\u65BD\u7B56\u57FA\u672C\u6307\u91DD\u300D\u6539\u5B9A(\u6848)\u306B\u95A2\u3059\u308B\u610F\u898B\u52DF\u96C6\u7D50\u679C\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-05T04:46:29.7159844+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u0022b521-64d14b850174d\u0022",
+    "lastModifiedUtc": "2026-03-15T19:00:47Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

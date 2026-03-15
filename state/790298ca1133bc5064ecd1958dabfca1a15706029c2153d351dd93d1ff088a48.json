@@ -1,0 +1,15 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.ota.tokyo.jp/kuseijoho/publiccomment/publiccomment_bosyu/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-03-15T19:39:27.5311108+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {
+    "lastModifiedUtc": "2026-03-06T00:35:00Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

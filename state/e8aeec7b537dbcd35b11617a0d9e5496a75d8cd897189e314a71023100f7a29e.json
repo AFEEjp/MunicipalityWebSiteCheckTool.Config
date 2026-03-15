@@ -1,0 +1,13 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.ushiku.lg.jp/page/dir000090.html",
+  "feedType": "html",
+  "updatedUtc": "2026-03-15T19:39:42.1832272+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {},
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

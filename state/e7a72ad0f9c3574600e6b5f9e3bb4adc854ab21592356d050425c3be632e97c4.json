@@ -1,0 +1,16 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.toshima.lg.jp/000/kuse/iken/publiccomment/bosyu/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-03-15T19:39:33.8036688+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {
+    "eTag": "\u002239c1-64ce9f7128565\u0022",
+    "lastModifiedUtc": "2026-03-13T16:00:16Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

@@ -1,0 +1,32 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.fukuoka.lg.jp/life/8/72/259/",
+  "feedType": "html",
+  "updatedUtc": "2026-03-15T19:39:40.20778+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "dc5aed2349a5ef0e975a45141895500f",
+      "title": "\u300C\u7B2C\uFF12\u671F\u6587\u5316\u82B8\u8853\u306B\u95A2\u3059\u308B\u65BD\u7B56\u3092\u7DCF\u5408\u7684\u304B\u3064\u8A08\u753B\u7684\u306B\u63A8\u9032\u3059\u308B\u305F\u3081\u306E\u57FA\u672C\u8A08\u753B\u306B\u3064\u3044\u3066\uFF08\u7B54\u7533\u6848\uFF09\u300D\u306B\u5BFE\u3059\u308B\u610F\u898B\u52DF\u96C6\u7D50\u679C\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-05T04:49:25.6096606+00:00"
+    },
+    {
+      "key": "7498b9e3e4f75e2c7852c96f736c5351",
+      "title": "\u798F\u5CA1\u770C\u5150\u7AE5\u798F\u7949\u6CD5\u65BD\u884C\u7D30\u5247\u306E\u4E00\u90E8\u6539\u6B63\u6848\u306B\u5BFE\u3059\u308B\u610F\u898B\u516C\u52DF\u306E\u5B9F\u65BD\u7D50\u679C\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-05T04:49:25.7081174+00:00"
+    },
+    {
+      "key": "6757551a51e6bd73e4e2eeabebe13c5e",
+      "title": "\u798F\u5CA1\u770C\u5150\u7AE5\u798F\u7949\u6CD5\u65BD\u884C\u7D30\u5247\u306E\u4E00\u90E8\u6539\u6B63\u6848\u306B\u5BFE\u3059\u308B\u610F\u898B\u516C\u52DF\u306E\u5B9F\u65BD\u7D50\u679C\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-05T04:49:25.8984349+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u00221038f-64d14d378e16a\u0022",
+    "lastModifiedUtc": "2026-03-15T19:08:22Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

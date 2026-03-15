@@ -1,0 +1,16 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.suginami.tokyo.jp/s013/1310.html",
+  "feedType": "html",
+  "updatedUtc": "2026-03-15T19:39:34.0895642+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {
+    "eTag": "\u002242fe-64cfd3e4a3735\u0022",
+    "lastModifiedUtc": "2026-03-14T15:00:15Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

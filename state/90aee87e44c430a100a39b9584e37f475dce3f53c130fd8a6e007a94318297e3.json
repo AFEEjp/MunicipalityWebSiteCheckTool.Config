@@ -1,0 +1,16 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.shiga.lg.jp/kensei/kenseisanka/22148.html",
+  "feedType": "html",
+  "updatedUtc": "2026-03-15T19:39:34.631269+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {
+    "eTag": "\u00221213d-64c0e4adaae31\u0022",
+    "lastModifiedUtc": "2026-03-02T17:55:29Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

@@ -1,0 +1,16 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.toyama.jp/1021/kensei/kenseisanka/kenseisanka/publiccomment/kj00015208-001-01.html",
+  "feedType": "html",
+  "updatedUtc": "2026-03-15T19:39:20.5622998+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {
+    "eTag": "\u00224fac-64ce98e966eab\u0022",
+    "lastModifiedUtc": "2026-03-13T15:31:03Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

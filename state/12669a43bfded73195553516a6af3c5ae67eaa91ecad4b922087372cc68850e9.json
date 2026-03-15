@@ -1,0 +1,31 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.tokyo-nakano.lg.jp/kosodate/kyoikuiinkai/torikumi/public-comment/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-03-15T19:39:23.9760165+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "569cf8491dca2b41450c7cdefacb9871",
+      "title": "\u300C\u5B50\u3069\u3082\u8AAD\u66F8\u6D3B\u52D5\u63A8\u9032\u8A08\u753B\uFF08\u7B2C4\u6B21\uFF09\uFF08\u6848\uFF09\u300D\u306B\u4FC2\u308B\u30D1\u30D6\u30EA\u30C3\u30AF\u30FB\u30B3\u30E1\u30F3\u30C8\u624B\u7D9A\u306E\u5B9F\u65BD\u7D50\u679C\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-11T18:00:33.4690272+00:00"
+    },
+    {
+      "key": "b699879fdfee90e6162bbc5d73d94a0c",
+      "title": "\u300C\u4E2D\u91CE\u533A\u5B50\u3069\u3082\u7DCF\u5408\u8A08\u753B\uFF08\u6848\uFF09\u300D\u306B\u3064\u3044\u3066\u306E\u30D1\u30D6\u30EA\u30C3\u30AF\u30FB\u30B3\u30E1\u30F3\u30C8\u624B\u7D9A\u306E\u5B9F\u65BD\u7D50\u679C",
+      "firstSeenAt": "2026-03-11T18:00:33.4692282+00:00"
+    },
+    {
+      "key": "2f401997f805b2eb2ed350bd5037def1",
+      "title": "\u300C\u4E2D\u91CE\u533A\u5B50\u3069\u3082\u30FB\u5B50\u80B2\u3066\u652F\u63F4\u4E8B\u696D\u8A08\u753B(\u7B2C3\u671F)\u300D\u306B\u4FC2\u308B\u30D1\u30D6\u30EA\u30C3\u30AF\u30FB\u30B3\u30E1\u30F3\u30C8\u624B\u7D9A\u306E\u5B9F\u65BD\u7D50\u679C",
+      "firstSeenAt": "2026-03-14T17:40:26.1974981+00:00"
+    }
+  ],
+  "httpCache": {
+    "lastModifiedUtc": "2026-03-15T19:30:17Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

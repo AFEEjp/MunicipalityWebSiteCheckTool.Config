@@ -1,0 +1,16 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.kawaguchi.lg.jp/soshiki/01010/020/1/2572.html",
+  "feedType": "html",
+  "updatedUtc": "2026-03-15T19:39:14.5692574+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {
+    "eTag": "\u002269af0e93-d80a\u0022",
+    "lastModifiedUtc": "2026-03-09T18:16:51Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

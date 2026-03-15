@@ -1,0 +1,16 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.nagoya.jp/news.rss",
+  "feedType": "rss",
+  "updatedUtc": "2026-03-15T19:39:53.1798921+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {
+    "eTag": "\u002211c4d-64d11b1f0890f\u0022",
+    "lastModifiedUtc": "2026-03-15T15:24:15Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

@@ -1,0 +1,27 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.ishikawa.lg.jp/kensei/koho/publiccomment/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-03-15T19:39:36.7225999+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "88b9cbf82be84cea4480d5276ed4b74d",
+      "title": "\u77F3\u5DDD\u770C\u6027\u7684\u6307\u5411\u53CA\u3073\u30B8\u30A7\u30F3\u30C0\u30FC\u30A2\u30A4\u30C7\u30F3\u30C6\u30A3\u30C6\u30A3\u306E\u591A\u69D8\u6027\u306B\u95A2\u3059\u308B\u770C\u6C11\u306E\u7406\u89E3\u306E\u5897\u9032\u306B\u95A2\u3059\u308B\u6761\u4F8B\uFF08\u6848\uFF09\u53CA\u3073\u77F3\u5DDD\u770C\u30D1\u30FC\u30C8\u30CA\u30FC\u30B7\u30C3\u30D7\u5BA3\u8A93\u5236\u5EA6\uFF08\u6848\uFF09",
+      "firstSeenAt": "2026-03-05T04:48:56.9584509+00:00"
+    },
+    {
+      "key": "470befbf22a3694e14feb1519274c969",
+      "title": "\u3044\u3057\u304B\u308F\u5B50\u3069\u3082\u306E\u6A29\u5229\u57FA\u672C\u6761\u4F8B\uFF08\u6848\uFF09",
+      "firstSeenAt": "2026-03-05T04:48:59.3767805+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u002275e2-64ccaa354dbad\u0022",
+    "lastModifiedUtc": "2026-03-12T02:37:47Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

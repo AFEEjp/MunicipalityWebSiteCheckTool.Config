@@ -1,0 +1,13 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.shibuya.tokyo.jp/contents/news/",
+  "feedType": "html",
+  "updatedUtc": "2026-03-15T19:39:30.1421384+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {},
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}
