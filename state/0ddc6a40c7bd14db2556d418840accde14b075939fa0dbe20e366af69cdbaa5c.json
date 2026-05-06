@@ -1,0 +1,37 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.kita.lg.jp/city-information/feedback/1014238/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-05-06T18:54:52.9649214+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "4b483631c72829b99b32ad9b75355e28",
+      "title": "\u5317\u533A\u6559\u80B2\u30FB\u5B50\u3069\u3082\u5927\u7DB1\uFF08\u6848\uFF09\u30D1\u30D6\u30EA\u30C3\u30AF\u30B3\u30E1\u30F3\u30C8\u5B9F\u65BD\u7D50\u679C",
+      "firstSeenAt": "2026-03-05T04:47:47.0921842+00:00"
+    },
+    {
+      "key": "5cd3515e5eb11df45c101c3c22cb420b",
+      "title": "\u7B2C\u4E94\u671F\u5317\u533A\u5B50\u3069\u3082\u8AAD\u66F8\u6D3B\u52D5\u63A8\u9032\u8A08\u753B\uFF08\u6848\uFF09\u30D1\u30D6\u30EA\u30C3\u30AF\u30B3\u30E1\u30F3\u30C8\u5B9F\u65BD\u7D50\u679C",
+      "firstSeenAt": "2026-03-05T04:47:47.2589816+00:00"
+    },
+    {
+      "key": "2cec466a6fa50c03cf6c3aff584190f4",
+      "title": "\u7B2C3\u671F\u5317\u533A\u5B50\u3069\u3082\u30FB\u5B50\u80B2\u3066\u652F\u63F4\u4E8B\u696D\u8A08\u753B\uFF08\u6848\uFF09\u30D1\u30D6\u30EA\u30C3\u30AF\u30B3\u30E1\u30F3\u30C8\u5B9F\u65BD\u7D50\u679C",
+      "firstSeenAt": "2026-03-05T04:47:47.4174985+00:00"
+    },
+    {
+      "key": "cb30612ed5989ec1dfe0a918fc8b6241",
+      "title": "\u5317\u533A\u7537\u5973\u5171\u540C\u53C2\u753B\u884C\u52D5\u8A08\u753B \u300C\u7B2C7\u6B21\u30A2\u30BC\u30EA\u30A2\u30D7\u30E9\u30F3\u300D\u4E2D\u9593\u306E\u307E\u3068\u3081 \u30D1\u30D6\u30EA\u30C3\u30AF\u30B3\u30E1\u30F3\u30C8\u5B9F\u65BD\u7D50\u679C",
+      "firstSeenAt": "2026-03-05T04:47:47.5173818+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u0022e035-65127986e0742\u0022",
+    "lastModifiedUtc": "2026-05-06T15:12:43Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

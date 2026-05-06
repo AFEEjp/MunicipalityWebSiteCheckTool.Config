@@ -1,0 +1,24 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.akita.lg.jp/feed/news.xml",
+  "feedType": "rss",
+  "updatedUtc": "2026-05-06T18:55:26.0347781+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "4dce753733a733fb222c02671911890a",
+      "title": "\u610F\u898B\u6295\u7A3F\u30D7\u30E9\u30C3\u30C8\u30D5\u30A9\u30FC\u30E0\u30B5\u30A4\u30C8\u69CB\u7BC9\u4E8B\u696D\u696D\u52D9\u59D4\u8A17\u306B\u4FC2\u308B\u4F01\u753B\u63D0\u6848\u7AF6\u6280\u306E\u5B9F\u65BD\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-04-15T11:16:02.078138+00:00"
+    },
+    {
+      "key": "3c5f68d70c74dbe2742c877b887225c1",
+      "title": "\u610F\u898B\u6295\u7A3F\u30D7\u30E9\u30C3\u30C8\u30D5\u30A9\u30FC\u30E0\u30B5\u30A4\u30C8\u69CB\u7BC9\u4E8B\u696D\u696D\u52D9\u59D4\u8A17\u306B\u4FC2\u308B\u4F01\u753B\u63D0\u6848\u7AF6\u6280\u306B\u95A2\u3059\u308B\u8CEA\u554F\u3078\u306E\u56DE\u7B54\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-04-23T09:02:18.5219397+00:00"
+    }
+  ],
+  "httpCache": {},
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

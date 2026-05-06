@@ -1,0 +1,32 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.wakayama.lg.jp/prefg/000200/ikenbosyu_index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-05-06T18:54:41.6020954+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "af1bdffd4e9a861e75a48d2b7d947fc2",
+      "title": "\u300C\u7B2C\u56DB\u671F \u548C\u6B4C\u5C71\u770C\u6587\u5316\u82B8\u8853\u632F\u8208\u57FA\u672C\u8A08\u753B\uFF08\u6848\uFF09\u300D\u306B\u4FC2\u308B\u30D1\u30D6\u30EA\u30C3\u30AF\u30B3\u30E1\u30F3\u30C8\u306E\u5B9F\u65BD\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-05T04:46:37.3364216+00:00"
+    },
+    {
+      "key": "1872d5b8fe634e7edf1d1ae7813b98a1",
+      "title": "\u300C\u7B2C3\u671F\u548C\u6B4C\u5C71\u770C\u30AE\u30E3\u30F3\u30D6\u30EB\u7B49\u4F9D\u5B58\u75C7\u5BFE\u7B56\u63A8\u9032\u8A08\u753B\uFF08\u6848\uFF09\u300D\u306E\u7B56\u5B9A\u306B\u95A2\u3059\u308B\u610F\u898B\u306E\u52DF\u96C6\uFF08\u30D1\u30D6\u30EA\u30C3\u30AF\u30B3\u30E1\u30F3\u30C8\uFF09\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-23T23:46:27.9002241+00:00"
+    },
+    {
+      "key": "6437e53af2a75db5bfb700cf7f6f9ad3",
+      "title": "\u300C\u7B2C3\u671F\u548C\u6B4C\u5C71\u770C\u30AE\u30E3\u30F3\u30D6\u30EB\u7B49\u4F9D\u5B58\u75C7\u5BFE\u7B56\u63A8\u9032\u8A08\u753B\uFF08\u6848\uFF09\u300D\u306E\u7B56\u5B9A\u306B\u95A2\u3059\u308B\u610F\u898B\u306E\u52DF\u96C6\uFF08\u30D1\u30D6\u30EA\u30C3\u30AF\u30B3\u30E1\u30F3\u30C8\uFF09\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-24T02:54:32.2839211+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u002237b6-6506b4828fe5b\u0022",
+    "lastModifiedUtc": "2026-04-27T06:32:42Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

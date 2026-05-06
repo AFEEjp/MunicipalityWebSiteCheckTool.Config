@@ -1,0 +1,31 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.kanagawa.jp/news/news.xml",
+  "feedType": "rss",
+  "updatedUtc": "2026-05-06T18:55:25.0518944+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "08a84638100a84fed5ad902604c9c609",
+      "title": "\u300C\u795E\u5948\u5DDD\u770C\u7ACB\u9752\u5C11\u5E74\u30BB\u30F3\u30BF\u30FC\u6761\u4F8B\u65BD\u884C\u898F\u5247\u306E\u4E00\u90E8\u3092\u6539\u6B63\u3059\u308B\u898F\u5247(\u6848)\u300D\u306B\u95A2\u3059\u308B\u610F\u898B\u52DF\u96C6\u306E\u7D50\u679C\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-24T02:55:07.3574078+00:00"
+    },
+    {
+      "key": "934d6aa5f57d2aa970933ca3e73ea44a",
+      "title": "\u5B50\u3069\u3082\u306E\u610F\u898B\u53CD\u6620\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-30T06:06:30.1593379+00:00"
+    },
+    {
+      "key": "a09c65a874608e601b9f82b0f26dc915",
+      "title": "\u65B0\u5150\u7AE5\u76F8\u8AC7\u6240\u30B7\u30B9\u30C6\u30E0\u8A2D\u8A08\u69CB\u7BC9\u53CA\u3073\u904B\u7528\u4FDD\u5B88\u696D\u52D9\u59D4\u8A17 \u610F\u898B\u62DB\u8ACB",
+      "firstSeenAt": "2026-04-24T03:47:50.7841032+00:00"
+    }
+  ],
+  "httpCache": {
+    "lastModifiedUtc": "2026-05-06T15:21:44Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

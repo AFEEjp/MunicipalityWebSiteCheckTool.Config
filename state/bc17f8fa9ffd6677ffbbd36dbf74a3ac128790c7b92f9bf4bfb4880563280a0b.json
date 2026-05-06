@@ -1,0 +1,47 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.bunkyo.lg.jp/b003/p006165.html",
+  "feedType": "html",
+  "updatedUtc": "2026-05-06T18:54:56.6863889+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "399d72b970b8e6991eff9d221177f837",
+      "title": "\u300C\uFF08\u4EEE\u79F0\uFF09\u6587\u4EAC\u533A\u3053\u3069\u3082\u306E\u6A29\u5229\u306B\u95A2\u3059\u308B\u6761\u4F8B\uFF08\u7D20\u6848\uFF09\u300D\u306B\u3064\u3044\u3066\u306E\u610F\u898B\u52DF\u96C6",
+      "firstSeenAt": "2026-03-05T04:48:08.2913181+00:00"
+    },
+    {
+      "key": "863755f2599dd8a0a150034b972a84d3",
+      "title": "\u300C\u6587\u4EAC\u533A\u5B50\u3069\u3082\u8AAD\u66F8\u6D3B\u52D5\u63A8\u9032\u8A08\u753B\uFF08\u7D20\u6848\uFF09\u300D\u306B\u3064\u3044\u3066\u306E\u610F\u898B\u52DF\u96C6",
+      "firstSeenAt": "2026-03-05T04:48:08.4428352+00:00"
+    },
+    {
+      "key": "8545a2e8562e0a004b31b859c7537050",
+      "title": "\u300C\uFF08\u4EEE\u79F0\uFF09\u6587\u4EAC\u533A\u82E5\u8005\u8A08\u753B\uFF08\u4EE4\u548C8\u5E74\u5EA6\uFF5E\u4EE4\u548C11\u5E74\u5EA6\uFF09\u4E2D\u9593\u306E\u307E\u3068\u3081\u300D\u306B\u3064\u3044\u3066\u306E\u610F\u898B\u52DF\u96C6",
+      "firstSeenAt": "2026-03-05T04:48:08.5370099+00:00"
+    },
+    {
+      "key": "4af6b1e2c2c74378f22b6beb7895aceb",
+      "title": "\u9632\u72AF\u5BFE\u7B56\u3092\u63A8\u9032\u3059\u308B\u5730\u533A\uFF08\u97F3\u4E00\u6587\u5316\u4F1A\u5730\u533A\uFF09\u306E\u6307\u5B9A\u306B\u95A2\u3059\u308B\u610F\u898B\u52DF\u96C6",
+      "firstSeenAt": "2026-03-05T04:48:08.7025234+00:00"
+    },
+    {
+      "key": "8a9709eb2487c4650f2dae796a148026",
+      "title": "\u300C\uFF08\u4EEE\u79F0\uFF09\u6587\u4EAC\u533A\u3053\u3069\u3082\u306E\u6A29\u5229\u306B\u95A2\u3059\u308B\u6761\u4F8B\uFF08\u7D20\u6848\uFF09\u300D\u306B\u3064\u3044\u3066\u306E\u610F\u898B\u52DF\u96C6",
+      "firstSeenAt": "2026-03-31T11:09:57.3952069+00:00"
+    },
+    {
+      "key": "294236b2367823a75e629dd61af56114",
+      "title": "\u300C\uFF08\u4EEE\u79F0\uFF09\u6587\u4EAC\u533A\u82E5\u8005\u8A08\u753B\uFF08\u4EE4\u548C8\u5E74\u5EA6\uFF5E\u4EE4\u548C11\u5E74\u5EA6\uFF09\u4E2D\u9593\u306E\u307E\u3068\u3081\u300D\u306B\u3064\u3044\u3066\u306E\u610F\u898B\u52DF\u96C6",
+      "firstSeenAt": "2026-03-31T11:09:57.3954717+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u00225672-64e534c55eb17\u0022",
+    "lastModifiedUtc": "2026-03-31T15:05:30Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

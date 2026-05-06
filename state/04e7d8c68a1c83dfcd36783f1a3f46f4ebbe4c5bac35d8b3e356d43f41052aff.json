@@ -1,0 +1,32 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.kochi.lg.jp/category/bunya/kenseijoho/public_comment/",
+  "feedType": "html",
+  "updatedUtc": "2026-05-06T18:55:13.1990555+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "e681a0c86cc346407905e9a43147971f",
+      "title": "\u3053\u3046\u3061\u7537\u5973\u5171\u540C\u53C2\u753B\u30D7\u30E9\u30F3\uFF08\u6848\uFF09\u306B\u3064\u3044\u3066\uFF08\u610F\u898B\u516C\u52DF\u671F\u9593\uFF1A\u4EE4\u548C\uFF17\u5E7412\u670825\u65E5\u304B\u3089\u4EE4\u548C\uFF18\u5E74\uFF11\u670826\u65E5\u307E\u3067\uFF09",
+      "firstSeenAt": "2026-03-05T04:50:16.4135738+00:00"
+    },
+    {
+      "key": "5351942fdf5669c19e09a36a522bbd2d",
+      "title": "\u767B\u9332\u6709\u5F62\u6587\u5316\u8CA1\uFF08\u5EFA\u9020\u7269\uFF09\u65E7\u9678\u8ECD\u6B69\u5175\u7B2C\u56DB\u56DB\u9023\u968A\u5F3E\u85AC\u5EAB\u53CA\u3073\u8B1B\u5802\u4FDD\u5B58\u6D3B\u7528\u8A08\u753B\uFF08\u6848\uFF09\u306B\u3064\u3044\u3066\uFF08\u610F\u898B\u516C\u52DF\u671F\u9593\uFF1A\u4EE4\u548C\uFF17\u5E748\u670812\u65E5\u304B\u3089\u4EE4\u548C\uFF17\u5E749\u670810\u65E5\u307E\u3067 \u63D0\u51FA\u610F\u898B\u6570\uFF1A\uFF10\u4EF6\uFF09",
+      "firstSeenAt": "2026-03-05T04:50:16.5359647+00:00"
+    },
+    {
+      "key": "c91743edceb05b1b9629d80889b3b4bf",
+      "title": "\u3053\u3046\u3061\u7537\u5973\u5171\u540C\u53C2\u753B\u30D7\u30E9\u30F3\uFF08\u6848\uFF09\u306B\u3064\u3044\u3066\uFF08\u610F\u898B\u516C\u52DF\u671F\u9593\uFF1A\u4EE4\u548C\uFF17\u5E7412\u670825\u65E5\u304B\u3089\u4EE4\u548C\uFF18\u5E74\uFF11\u670826\u65E5\u307E\u3067 \u63D0\u51FA\u610F\u898B\u6570\uFF1A21\u4EF6\uFF09",
+      "firstSeenAt": "2026-03-30T09:45:51.7069735+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u002269f4139c-7385\u0022",
+    "lastModifiedUtc": "2026-05-01T02:44:44Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

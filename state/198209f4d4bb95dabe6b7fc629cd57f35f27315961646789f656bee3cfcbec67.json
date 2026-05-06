@@ -1,0 +1,27 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.setagaya.lg.jp/02002/7778.html",
+  "feedType": "html",
+  "updatedUtc": "2026-05-06T18:54:53.7130922+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "c917209ea585270e51d68cbb8b77d9d6",
+      "title": "\u4E16\u7530\u8C37\u533A\u5B50\u3069\u3082\u306E\u6A29\u5229\u6761\u4F8B(\u7D20\u6848\uFF09\u304A\u3088\u3073\u4E16\u7530\u8C37\u533A\u5B50\u3069\u3082\u30FB\u82E5\u8005\u7DCF\u5408\u8A08\u753B\uFF08\u7B2C3\u671F\uFF09\uFF08\u7D20\u6848\uFF09",
+      "firstSeenAt": "2026-03-05T04:47:44.8914583+00:00"
+    },
+    {
+      "key": "beae304c5cb33ba8857117cfeb156bb2",
+      "title": "\u4E16\u7530\u8C37\u533A\u7B2C4\u671F\u6587\u5316\u30FB\u82B8\u8853\u632F\u8208\u8A08\u753B\uFF08\u7D20\u6848\uFF09\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-05T04:47:45.0765732+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u002266bf-64cfd3f1a52a2\u0022",
+    "lastModifiedUtc": "2026-03-14T15:00:29Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

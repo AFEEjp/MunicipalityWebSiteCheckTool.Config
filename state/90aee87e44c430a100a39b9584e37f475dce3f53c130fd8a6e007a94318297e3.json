@@ -1,0 +1,32 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.shiga.lg.jp/kensei/kenseisanka/22148.html",
+  "feedType": "html",
+  "updatedUtc": "2026-05-06T18:55:02.7602866+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "9130e7b92bc0aedfa4b556ff20178632",
+      "title": "\uFF08\u4EEE\u79F0\uFF09\u30D1\u30FC\u30C8\u30CA\u30FC\u3057\u304C\u30D7\u30E9\u30F32030\uFF08\u6ECB\u8CC0\u770C\u7537\u5973\u5171\u540C\u53C2\u753B\u8A08\u753B\u30FB\u6ECB\u8CC0\u770C\u5973\u6027\u6D3B\u8E8D\u63A8\u9032\u8A08\u753B\uFF09\uFF08\u539F\u6848\uFF09\u306E\u3054\u610F\u898B\u52DF\u96C6\u306E\u7D50\u679C\u30DA\u30FC\u30B8\u306F\u3053\u3061\u3089",
+      "firstSeenAt": "2026-03-24T06:12:20.9974574+00:00"
+    },
+    {
+      "key": "c51ed6311d1efe234a89850515f00800",
+      "title": "\u6ECB\u8CC0\u770C\u6587\u5316\u632F\u8208\u57FA\u672C\u65B9\u91DD\uFF08\u7B2C4\u6B21\uFF09\u7D20\u6848\u306E\u3054\u610F\u898B\u52DF\u96C6\u306E\u7D50\u679C\u30DA\u30FC\u30B8\u306F\u3053\u3061\u3089",
+      "firstSeenAt": "2026-03-31T05:51:59.3035634+00:00"
+    },
+    {
+      "key": "00eee4aad153a124a07eeb26b568bf43",
+      "title": "\u6ECB\u8CC0\u770CCO\u2082\u30CD\u30C3\u30C8\u30BC\u30ED\u793E\u4F1A\u3065\u304F\u308A\u63A8\u9032\u8A08\u753B\u6539\u5B9A\uFF08\u539F\u6848\uFF09\u306E\u3054\u610F\u898B\u52DF\u96C6\u306E\u7D50\u679C\u30DA\u30FC\u30B8\u306F\u3053\u3061\u3089",
+      "firstSeenAt": "2026-03-31T05:51:59.3036177+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u00221526c-650ad6828f320\u0022",
+    "lastModifiedUtc": "2026-04-30T13:26:07Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

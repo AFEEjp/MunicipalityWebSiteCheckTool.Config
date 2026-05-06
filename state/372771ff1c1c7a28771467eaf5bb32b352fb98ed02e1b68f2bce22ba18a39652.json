@@ -1,0 +1,16 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.mitoyo.lg.jp/gyosei/public/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-05-06T18:55:12.4815208+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {
+    "eTag": "\u002269e57c53-11331\u0022",
+    "lastModifiedUtc": "2026-04-20T01:07:31Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

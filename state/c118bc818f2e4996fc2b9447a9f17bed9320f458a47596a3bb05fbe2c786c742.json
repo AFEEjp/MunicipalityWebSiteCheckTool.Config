@@ -1,0 +1,26 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.asaka.lg.jp/rss/10/list1.xml",
+  "feedType": "rss",
+  "updatedUtc": "2026-05-06T18:55:15.4764625+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "c8f13cef32a5474d0e94a485b50f7522",
+      "title": "\u5E02\u6C11\u30B3\u30E1\u30F3\u30C8\uFF08\u7D50\u679C\uFF09 \u7B2C4\u6B21\u671D\u971E\u5E02\u7ACB\u56F3\u66F8\u9928\u30B5\u30FC\u30D3\u30B9\u57FA\u672C\u8A08\u753B\u30FB\u5B50\u3069\u3082\u8AAD\u66F8\u6D3B\u52D5\u63A8\u9032\u8A08\u753B\uFF08\u7D20\u6848\uFF09",
+      "firstSeenAt": "2026-03-05T04:50:36.4486809+00:00"
+    },
+    {
+      "key": "353dce998e1f6f8d98b093ff88d31ba6",
+      "title": "\u5E02\u6C11\u30B3\u30E1\u30F3\u30C8\uFF08\u7D50\u679C\uFF09 \u671D\u971E\u5E02\u3053\u3069\u3082\u8A08\u753B\uFF08\u7D20\u6848\uFF09",
+      "firstSeenAt": "2026-03-31T15:20:41.8213165+00:00"
+    }
+  ],
+  "httpCache": {
+    "lastModifiedUtc": "2026-05-06T18:46:45Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

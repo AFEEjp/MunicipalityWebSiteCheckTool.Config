@@ -1,0 +1,22 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.yamaguchi.lg.jp/rss/10/list6.xml",
+  "feedType": "rss",
+  "updatedUtc": "2026-05-06T18:55:18.0462837+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "66b290984a0f0e230471046654a4c704",
+      "title": "\u7B2C6\u6B21\u5C71\u53E3\u770C\u7537\u5973\u5171\u540C\u53C2\u753B\u57FA\u672C\u8A08\u753B\u300D\u306E\u7B56\u5B9A\u53CA\u3073\u540C\u7D20\u6848\u306B\u5BFE\u3059\u308B\u30D1\u30D6\u30EA\u30C3\u30AF\u30FB\u30B3\u30E1\u30F3\u30C8\uFF08\u770C\u6C11\u610F\u898B\u306E\u52DF\u96C6\uFF09\u306E\u5B9F\u65BD\u7D50\u679C\u3092\u516C\u8868",
+      "firstSeenAt": "2026-04-01T07:52:43.2336744+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u00226894-6512a9ef811e0\u0022",
+    "lastModifiedUtc": "2026-05-06T18:49:17Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

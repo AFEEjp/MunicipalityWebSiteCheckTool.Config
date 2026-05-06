@@ -1,0 +1,27 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.musashino.lg.jp/shiseijoho/ikenboshu_enquete/public_comment/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-05-06T18:54:56.9064309+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "ddb29c1bb195587026be635686a6f2bb",
+      "title": "\u7B2C\u516D\u6B21\u5B50\u3069\u3082\u30D7\u30E9\u30F3\u6B66\u8535\u91CE\uFF08\u4E2D\u9593\u306E\u307E\u3068\u3081\uFF09\u306B\u5BFE\u3059\u308B\u610F\u898B\u52DF\u96C6",
+      "firstSeenAt": "2026-03-05T04:48:22.0198503+00:00"
+    },
+    {
+      "key": "f14a9c5ae7176101555d74d7c0a797e5",
+      "title": "\u56FD\u767B\u9332\u6709\u5F62\u6587\u5316\u8CA1\uFF08\u5EFA\u9020\u7269\uFF09\u65E7\u8D64\u661F\u9244\u99AC\u90B8\u4FDD\u5B58\u6D3B\u7528\u8A08\u753B\uFF08\u6848\uFF09",
+      "firstSeenAt": "2026-03-05T04:48:22.2953754+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u0022a603-651279bc1aec0\u0022",
+    "lastModifiedUtc": "2026-05-06T15:13:39Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

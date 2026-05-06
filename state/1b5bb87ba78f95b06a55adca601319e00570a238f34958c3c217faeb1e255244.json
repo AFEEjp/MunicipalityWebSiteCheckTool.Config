@@ -1,0 +1,19 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.shinagawa.tokyo.jp/PC/kuseizyoho/kuseizyoho-zyouhoukoukai/kuseizyoho-zyouhoukoukai-pabukome/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-05-06T18:54:54.5821813+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "80fdb84e02940da813654bf2afcef951",
+      "title": "2025-001\u300C\u54C1\u5DDD\u533A\u30B8\u30A7\u30F3\u30C0\u30FC\u5E73\u7B49\u3068\u6027\u306E\u591A\u69D8\u6027\u3092\u5C0A\u91CD\u3057\u5408\u3046\u793E\u4F1A\u3092\u5B9F\u73FE\u3059\u308B\u305F\u3081\u306E\u8A08\u753B\u300D\u306B\u5BFE\u3059\u308B\u610F\u898B\u52DF\u96C6",
+      "firstSeenAt": "2026-03-05T04:48:01.64093+00:00"
+    }
+  ],
+  "httpCache": {},
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

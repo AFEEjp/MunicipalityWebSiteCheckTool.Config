@@ -1,0 +1,27 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.yamaga.kumamoto.jp/new_list.xml",
+  "feedType": "rss",
+  "updatedUtc": "2026-05-06T18:55:26.6885916+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "1bf2cdb2589a4525830e74466cc28cfe",
+      "title": "\u4EE4\u548C7\u5E74\u5EA6\u300C\u7B2C3\u6B21\u5C71\u9E7F\u5E02\u7537\u5973\u5171\u540C\u53C2\u753B\u8A08\u753B\u300D\u306E\u5B9F\u65BD\u306B\u95A2\u3059\u308B\u610F\u898B\u66F8\u304C\u63D0\u51FA\u3055\u308C\u307E\u3057\u305F\u3002",
+      "firstSeenAt": "2026-03-30T07:59:33.964483+00:00"
+    },
+    {
+      "key": "e57fea5a430579c5f0f2d8762bcdc02f",
+      "title": "\u7B2C3\u6B21\u5C71\u9E7F\u5E02\u4EBA\u6A29\u6559\u80B2\u30FB\u5553\u767A\u57FA\u672C\u8A08\u753B\uFF08\u6539\u8A02\u7248\uFF09\u3092\u7B56\u5B9A\u3057\u307E\u3057\u305F",
+      "firstSeenAt": "2026-04-01T07:52:53.6951508+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u0022dd6d8d8f69dddc1:0\u0022",
+    "lastModifiedUtc": "2026-05-06T15:03:56Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

@@ -1,0 +1,27 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.tochigi.lg.jp/c05/kensei/kouhou/hp/shinchaku.xml",
+  "feedType": "rss",
+  "updatedUtc": "2026-05-06T18:55:24.4075913+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "c109ee24c0f9da258ee622a0be58d300",
+      "title": "\u3068\u3061\u304E\u9752\u5C11\u5E74\u30D7\u30E9\u30F32026\uFF5E2030\u306E\u7B56\u5B9A\u53CA\u3073\u540C\u8A08\u753B\u6848\u306B\u5BFE\u3059\u308B\u30D1\u30D6\u30EA\u30C3\u30AF\u30FB\u30B3\u30E1\u30F3\u30C8\uFF08\u770C\u6C11\u610F\u898B\u306E\u52DF\u96C6\uFF09\u306E\u5B9F\u65BD\u7D50\u679C\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-27T07:23:59.3212087+00:00"
+    },
+    {
+      "key": "23ffddf7a6bcc90e61fefd9a4d126a7a",
+      "title": "\u300C\u6803\u6728\u770C\u4EBA\u6A29\u65BD\u7B56\u63A8\u9032\u57FA\u672C\u8A08\u753B(2016\uFF5E2025)\u5897\u88DC\u7248\u306E\u7B56\u5B9A\u53CA\u3073\u540C\u8A08\u753B\u5897\u88DC\u7248\u6848\u306B\u5BFE\u3059\u308B\u30D1\u30D6\u30EA\u30C3\u30AF\u30FB\u30B3\u30E1\u30F3\u30C8(\u770C\u6C11\u610F\u898B\u306E\u52DF\u96C6)\u306E\u5B9F\u65BD\u7D50\u679C\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-27T07:23:59.3217285+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u002212d2c\u0022",
+    "lastModifiedUtc": "2026-05-06T13:36:18Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

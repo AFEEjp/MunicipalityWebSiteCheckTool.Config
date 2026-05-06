@@ -1,0 +1,22 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.kochi.lg.jp/category/bunya/kenseijoho/public_comment/index.rss",
+  "feedType": "rss",
+  "updatedUtc": "2026-05-06T18:55:27.7171698+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "c91743edceb05b1b9629d80889b3b4bf",
+      "title": "\u3053\u3046\u3061\u7537\u5973\u5171\u540C\u53C2\u753B\u30D7\u30E9\u30F3\uFF08\u6848\uFF09\u306B\u3064\u3044\u3066\uFF08\u610F\u898B\u516C\u52DF\u671F\u9593\uFF1A\u4EE4\u548C\uFF17\u5E7412\u670825\u65E5\u304B\u3089\u4EE4\u548C\uFF18\u5E74\uFF11\u670826\u65E5\u307E\u3067 \u63D0\u51FA\u610F\u898B\u6570\uFF1A21\u4EF6\uFF09",
+      "firstSeenAt": "2026-03-30T09:46:04.1187649+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u002269f4139c-45f1\u0022",
+    "lastModifiedUtc": "2026-05-01T02:44:44Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

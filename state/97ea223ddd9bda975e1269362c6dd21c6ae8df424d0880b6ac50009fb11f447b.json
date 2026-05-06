@@ -1,0 +1,36 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.aomori.lg.jp/rss/feed.rss",
+  "feedType": "rss",
+  "updatedUtc": "2026-05-06T18:55:27.7601094+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "473b7854d4a45b1977ce46739772c9b6",
+      "title": "\u3010\u4F01\u753B\u63D0\u6848\u52DF\u96C6\u3011\u3053\u3069\u3082\u306E\u610F\u898B\u8868\u660E\u7B49\u652F\u63F4\u4E8B\u696D\u696D\u52D9\u306B\u4FC2\u308B\u4F01\u753B\u63D0\u6848\u3092\u52DF\u96C6\u3057\u307E\u3059 [\u3053\u3069\u3082\u307F\u3089\u3044\u8AB2 3\u670817\u65E5]",
+      "firstSeenAt": "2026-03-17T05:02:57.4411764+00:00"
+    },
+    {
+      "key": "282cf8ae6f801c0f15ceeca6073c0355",
+      "title": "\u9752\u68EE\u770C\u7279\u5B9A\u975E\u55B6\u5229\u6D3B\u52D5\u4FC3\u9032\u6CD5\u65BD\u884C\u7D30\u5247\u306E\u4E00\u90E8\u6539\u6B63\uFF08\u6848\uFF09\u306B\u95A2\u3059\u308B\u610F\u898B\u52DF\u96C6\u7D50\u679C [\u5730\u57DF\u751F\u6D3B\u6587\u5316\u8AB2 3\u670830\u65E5]",
+      "firstSeenAt": "2026-03-29T22:50:21.3910926+00:00"
+    },
+    {
+      "key": "22ed17a3f2befa939a8df6e941161744",
+      "title": "\u7B2C2\u6B21\u9752\u68EE\u770C\u72AF\u7F6A\u88AB\u5BB3\u8005\u7B49\u652F\u63F4\u63A8\u9032\u8A08\u753B\uFF08\u6848\uFF09\u306B\u95A2\u3059\u308B\u610F\u898B\u52DF\u96C6\u7D50\u679C [\u5730\u57DF\u751F\u6D3B\u6587\u5316\u8AB2 3\u670831\u65E5]",
+      "firstSeenAt": "2026-03-30T22:54:57.8800966+00:00"
+    },
+    {
+      "key": "afa087d5782190526b90f9f7719872b8",
+      "title": "\u3010\u518D\u516C\u52DF\u3011\u3053\u3069\u3082\u306E\u610F\u898B\u8868\u660E\u7B49\u652F\u63F4\u4E8B\u696D\u696D\u52D9\u306B\u4FC2\u308B\u4F01\u753B\u63D0\u6848\u3092\u52DF\u96C6\u3057\u307E\u3059 [\u3053\u3069\u3082\u307F\u3089\u3044\u8AB2 4\u670827\u65E5]",
+      "firstSeenAt": "2026-04-01T07:52:54.4372718+00:00"
+    }
+  ],
+  "httpCache": {
+    "lastModifiedUtc": "2026-05-06T18:45:19Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

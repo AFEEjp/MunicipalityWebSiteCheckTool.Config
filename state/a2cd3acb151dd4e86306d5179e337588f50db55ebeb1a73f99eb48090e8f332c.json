@@ -1,0 +1,31 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.osaka.lg.jp/templates/jorei_boshu/0-Curr.html",
+  "feedType": "html",
+  "updatedUtc": "2026-05-06T18:54:46.248374+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "086273c141261a36a7977e6da5b33737",
+      "title": "\u300C\u7B2C4\u6B21\u5927\u962A\u5E02\u6587\u5316\u632F\u8208\u8A08\u753B\uFF08\u6848\uFF09\u300D",
+      "firstSeenAt": "2026-03-05T04:46:53.4050905+00:00"
+    },
+    {
+      "key": "cbb1b2e7c0618d2f6d20d1dea605efe5",
+      "title": "\u5927\u962A\u5E02AI\u6D3B\u7528\u57FA\u672C\u65B9\u91DD\uFF08\u6848\uFF09\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-05T04:46:53.51998+00:00"
+    },
+    {
+      "key": "f10840858c511221b6098557ca1cd51c",
+      "title": "\u300C\u65B0\u305F\u306A\u7537\u5973\u5171\u540C\u53C2\u753B\u57FA\u672C\u8A08\u753B\uFF5E\u7B2C4\u6B21\u5927\u962A\u5E02\u7537\u5973\u304D\u3089\u3081\u304D\u8A08\u753B\uFF5E\uFF08\u7D20\u6848\uFF09\u300D\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-05T04:46:53.6398499+00:00"
+    }
+  ],
+  "httpCache": {
+    "lastModifiedUtc": "2026-05-06T18:02:44Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

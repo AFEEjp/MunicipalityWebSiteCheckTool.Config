@@ -1,0 +1,27 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.nara.lg.jp/n018/p162003.html",
+  "feedType": "html",
+  "updatedUtc": "2026-05-06T18:54:47.5487481+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "a22a7f06813ae4f17c549b89d88043cf",
+      "title": "\u300C\u7B2C5\u6B21\u5948\u826F\u770C\u7537\u5973\u5171\u540C\u53C2\u753B\u8A08\u753B\u30FB\u7B2C3\u6B21\u5948\u826F\u770C\u5973\u6027\u6D3B\u8E8D\u63A8\u9032\u8A08\u753B\u300D\uFF08\u6848\uFF09\u306B\u5BFE\u3059\u308B\u610F\u898B\u306E\u52DF\u96C6\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-05T04:46:56.9107182+00:00"
+    },
+    {
+      "key": "b8dc7dfccbfc6b76c4a81483cf9720d8",
+      "title": "\u300C\u7B2C5\u6B21\u5948\u826F\u770C\u7537\u5973\u5171\u540C\u53C2\u753B\u8A08\u753B\u30FB\u7B2C3\u6B21\u5948\u826F\u770C\u5973\u6027\u6D3B\u8E8D\u63A8\u9032\u8A08\u753B\u300D\uFF08\u6848\uFF09\u306B\u5BFE\u3059\u308B\u610F\u898B\u306E\u52DF\u96C6\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-17T05:02:31.002046+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u00227bc8-650b5d7fd5487\u0022",
+    "lastModifiedUtc": "2026-04-30T23:30:03Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

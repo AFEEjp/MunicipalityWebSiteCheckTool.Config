@@ -1,0 +1,37 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.osaka.lg.jp/o070050/fumin/public/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-05-06T18:54:45.890232+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "c512f5f335588b35ac3251e5d82d4a97",
+      "title": "\u300C\u7B2C5\u6B21\u5927\u962A\u5E9C\u5B50\u3069\u3082\u8AAD\u66F8\u6D3B\u52D5\u63A8\u9032\u8A08\u753B\uFF08\u6848\uFF09 \u300D\u306B\u5BFE\u3059\u308B\u5E9C\u6C11\u610F\u898B\u7B49\u306E\u52DF\u96C6\u7D50\u679C\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-10T05:58:37.3017546+00:00"
+    },
+    {
+      "key": "d12632eff307b895d428331023bb7b0e",
+      "title": "\u300C\u7B2C6\u6B21\u5927\u962A\u5E9C\u6587\u5316\u632F\u8208\u8A08\u753B(\u6848)\u300D\u306B\u5BFE\u3059\u308B\u5E9C\u6C11\u610F\u898B\u7B49\u306E\u52DF\u96C6\u7D50\u679C\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-23T05:46:18.583226+00:00"
+    },
+    {
+      "key": "7da8abafb972166690a55b36a3956651",
+      "title": "\u300C\u7B2C3\u671F\u5927\u962A\u5E9C\u30AE\u30E3\u30F3\u30D6\u30EB\u7B49\u4F9D\u5B58\u75C7\u5BFE\u7B56\u63A8\u9032\u8A08\u753B\uFF08\u6848\uFF09\u300D\u306B\u5BFE\u3059\u308B\u5E9C\u6C11\u610F\u898B\u7B49\u306E\u52DF\u96C6\u7D50\u679C\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-25T05:38:00.3824909+00:00"
+    },
+    {
+      "key": "8720cdcfef8f3530f3e7c72f6a1d7d16",
+      "title": "\u300C\u304A\u304A\u3055\u304B\u7537\u5973\u5171\u540C\u53C2\u753B\u30D7\u30E9\u30F3(2026-2030)\u7D20\u6848\u300D\u306B\u5BFE\u3059\u308B\u5E9C\u6C11\u610F\u898B\u7B49\u306E\u52DF\u96C6\u7D50\u679C\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-03-31T05:51:42.4366207+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u00224371-650c2d5e6a000\u0022",
+    "lastModifiedUtc": "2026-05-01T15:00:02Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

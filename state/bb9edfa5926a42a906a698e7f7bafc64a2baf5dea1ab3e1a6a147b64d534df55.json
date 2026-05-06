@@ -1,0 +1,16 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.kyoto.jp/comment/",
+  "feedType": "html",
+  "updatedUtc": "2026-05-06T18:54:37.9387158+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {
+    "eTag": "\u00223b2d-64e5844d2df40\u0022",
+    "lastModifiedUtc": "2026-03-31T21:01:19Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

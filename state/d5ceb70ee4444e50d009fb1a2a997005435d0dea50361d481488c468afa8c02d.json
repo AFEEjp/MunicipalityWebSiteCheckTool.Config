@@ -1,0 +1,21 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.matsudo.chiba.jp/rss_news.xml",
+  "feedType": "rss",
+  "updatedUtc": "2026-05-06T18:55:14.578558+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "126872d4d9f7de71d195da23fd643cac",
+      "title": "\u7B2C2\u6B21\u677E\u6238\u5E02\u5B50\u3069\u3082\u306E\u8AAD\u66F8\u6D3B\u52D5\u63A8\u9032\u8A08\u753B\uFF08\u6848\uFF09\u306B\u3064\u3044\u3066\u30D1\u30D6\u30EA\u30C3\u30AF\u30B3\u30E1\u30F3\u30C8\uFF08\u610F\u898B\u52DF\u96C6\uFF09\u624B\u7D9A\u304D\u306E\u5B9F\u65BD\u7D50\u679C\u3092\u516C\u8868\u3057\u307E\u3059",
+      "firstSeenAt": "2026-03-31T15:20:41.1037651+00:00"
+    }
+  ],
+  "httpCache": {
+    "lastModifiedUtc": "2026-05-06T18:00:07Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}
