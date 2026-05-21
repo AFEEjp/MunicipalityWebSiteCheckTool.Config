@@ -1,0 +1,16 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.shinjuku.lg.jp/kusei/file14_01_00001.html",
+  "feedType": "html",
+  "updatedUtc": "2026-05-21T00:16:45.2547957+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {
+    "eTag": "\u00226a0dfa4e-f582\u0022",
+    "lastModifiedUtc": "2026-05-20T18:15:42Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}
