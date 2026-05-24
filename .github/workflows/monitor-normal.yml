@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: monitor-normal
+  group: monitor-state
   cancel-in-progress: false
 
 jobs:

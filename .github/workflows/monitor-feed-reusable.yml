@@ -26,25 +26,21 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           fetch-depth: 0
 
-      - name: Prepare state directory
-        shell: pwsh
-        run: |
-          New-Item -ItemType Directory -Path ./state -Force | Out-Null
+      - name: Checkout monitor-state branch
+        uses: actions/checkout@v5
+        with:
+          ref: monitor-state
+          path: .state-work
+          fetch-depth: 1
 
-      - name: Restore monitor-state branch
+      - name: Ensure state directory
         shell: pwsh
         run: |
-          if ((git ls-remote --heads origin monitor-state)) {
-            git fetch origin monitor-state
-            $hasStateDirectory = git ls-tree --name-only origin/monitor-state state
-            if ($hasStateDirectory) {
-              git archive origin/monitor-state state | tar -xf -
-            }
-          }
+          New-Item -ItemType Directory -Path ./.state-work/state -Force | Out-Null
 
       - name: Download monitor runtime release asset
         shell: bash
@@ -108,32 +104,24 @@ jobs:
           --feeds-dir ./feeds
           --pages-dir ./pages
           --feed-settings ./feed-settings.json
-          --state-dir ./state
+          --state-dir ./.state-work/state
 
       - name: Update monitor-state branch
         if: always()
         shell: pwsh
         run: |
-          $tempStatePath = Join-Path $env:RUNNER_TEMP "monitor-state-${{ inputs.commit-suffix }}"
-          if (Test-Path $tempStatePath) {
-            Remove-Item -Recurse -Force $tempStatePath
-          }
-          Copy-Item -Path ./state -Destination $tempStatePath -Recurse -Force
+          Push-Location ./.state-work
+          try {
+            New-Item -ItemType Directory -Path ./state -Force | Out-Null
 
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          $currentBranch = git branch --show-current
-          git switch --orphan monitor-state-temp
-          git rm -r --ignore-unmatch . | Out-Null
-          if (Test-Path ./state) {
-            Remove-Item -Recurse -Force ./state
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            Set-Content -Path ./README.md -Value "# monitor-state`n`nstate files managed by GitHub Actions."
+            git add state README.md
+            if ((git status --short)) {
+              git commit -m "Update monitor state (${{ inputs.commit-suffix }})"
+              git push origin HEAD:monitor-state
+            }
+          } finally {
+            Pop-Location
           }
-          Copy-Item -Path $tempStatePath -Destination ./state -Recurse -Force
-          Set-Content -Path ./README.md -Value "# monitor-state`n`nstate files managed by GitHub Actions."
-          git add state README.md
-          if ((git status --short)) {
-            git commit -m "Update monitor state (${{ inputs.commit-suffix }})"
-            git branch -M monitor-state
-            git push origin monitor-state --force
-          }
-          git switch $currentBranch
