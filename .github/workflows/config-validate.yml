@@ -56,11 +56,14 @@ jobs:
             if ([string]::IsNullOrWhiteSpace($feed.url)) { $errors.Add("feeds url が空です: $path") }
             if ([string]::IsNullOrWhiteSpace($feed.type)) { $errors.Add("feeds type が空です: $path") }
             if ([string]::IsNullOrWhiteSpace($feed.cadence)) { $errors.Add("feeds cadence が空です: $path") }
-            if ($feed.type -ne "rss" -and $feed.type -ne "html") {
-              $errors.Add("feeds type が不正です (rss/html): $path")
+            if ($feed.type -ne "rss" -and $feed.type -ne "html" -and $feed.type -ne "browser") {
+              $errors.Add("feeds type が不正です (rss/html/browser): $path")
             }
             if ($feed.cadence -ne "fast" -and $feed.cadence -ne "normal" -and $feed.cadence -ne "slow") {
               $errors.Add("feeds cadence が不正です (fast/normal/slow): $path")
+            }
+            if ($feed.type -eq "browser" -and $null -eq $feed.browser) {
+              $errors.Add("feeds browser 設定がありません: $path")
             }
             if (![System.Uri]::TryCreate([string]$feed.url, [System.UriKind]::Absolute, [ref]([System.Uri]$null))) {
               $errors.Add("feeds url が絶対URLではありません: $path")
