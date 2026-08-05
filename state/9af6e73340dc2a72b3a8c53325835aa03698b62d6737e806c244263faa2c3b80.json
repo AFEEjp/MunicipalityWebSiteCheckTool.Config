@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.cfa.go.jp/news",
   "feedType": "html",
-  "updatedUtc": "2026-08-05T08:50:01.2781512+00:00",
+  "updatedUtc": "2026-08-05T11:27:45.2077352+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -17,8 +17,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00221785918692-gzip\u0022",
-    "lastModifiedUtc": "2026-08-05T08:31:32Z"
+    "eTag": "\u00221785922854-gzip\u0022",
+    "lastModifiedUtc": "2026-08-05T09:40:54Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
