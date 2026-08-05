@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.ushiku.lg.jp/page/dir000090.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-05T05:54:19.4418392+00:00",
+  "updatedUtc": "2026-08-05T08:50:31.0100493+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {},
@@ -12,7 +12,7 @@
   "consecutiveFailureLastNotifiedCount": 0,
   "urlMigration": {
     "currentFingerprint": "meta-refresh|e3652c167e5aed54a602b4f2cae2d26ba41df5094c775ff5c2b9e3625cadcb1d",
-    "consecutiveCount": 1,
+    "consecutiveCount": 2,
     "lastReason": "meta-refresh",
     "lastCandidateUrl": "https://www.city.ushiku.lg.jp/shisei/johohasshin/koho-kocho/public-comment/index.html",
     "lastConfidence": "high",

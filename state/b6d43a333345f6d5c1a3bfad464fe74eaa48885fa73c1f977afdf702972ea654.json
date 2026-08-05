@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.kyoto.lg.jp/templates/pubcomment/0-Curr.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-05T05:53:50.3106594+00:00",
+  "updatedUtc": "2026-08-05T08:49:59.180066+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-05T05:02:51Z"
+    "lastModifiedUtc": "2026-08-05T08:02:39Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
