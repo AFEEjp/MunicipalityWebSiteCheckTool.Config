@@ -1,14 +1,27 @@
 ﻿{
   "version": 1,
-  "feedUrl": "https://www.johokokai.metro.tokyo.lg.jp/jyuyokohyo/02.html",
+  "feedUrl": "https://www.soumu.metro.tokyo.lg.jp/01soumu-johokokaika/jyuyokohyo/2",
   "feedType": "html",
-  "updatedUtc": "2026-08-04T23:16:24.9895481+00:00",
+  "updatedUtc": "2026-08-05T02:29:35.4188461+00:00",
   "maxSeen": 500,
-  "seen": [],
-  "httpCache": {
-    "eTag": "\u00223989-64862bec9a1c0\u0022",
-    "lastModifiedUtc": "2026-01-15T01:00:05Z"
-  },
+  "seen": [
+    {
+      "key": "ab99fa8015d87489619a9ae73ec77a0d",
+      "title": "\u300C\u6771\u4EAC\u90FD\u7537\u5973\u5E73\u7B49\u53C2\u753B\u63A8\u9032\u7DCF\u5408\u8A08\u753B\uFF08\u7D20\u6848\uFF09\u300D\u3078\u306E\u3054\u610F\u898B\u3092\u52DF\u96C6",
+      "firstSeenAt": "2026-08-05T02:29:35.4401771+00:00"
+    },
+    {
+      "key": "ee65f02722a31a45c1fe5a5ede54a4d9",
+      "title": "\u5FA1\u610F\u898B\u52DF\u96C6\u300C\u7B2C\u4E94\u6B21\u6771\u4EAC\u90FD\u5B50\u4F9B\u8AAD\u66F8\u6D3B\u52D5\u63A8\u9032\u8A08\u753B\uFF08\u6848\uFF09\u300D\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-08-05T02:29:35.4404887+00:00"
+    },
+    {
+      "key": "94c39fb9992e0f017f62744e993846b3",
+      "title": "\u5FA1\u610F\u898B\u52DF\u96C6 \u300C\uFF08\u4EEE\u79F0\uFF09\u5B50\u4F9B\u30FB\u82E5\u8005\u4F53\u9A13\u6D3B\u52D5\u65BD\u8A2D \u533A\u90E8\u57FA\u672C\u8A08\u753B\uFF08\u6848\uFF09\u300D\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-08-05T02:29:35.4406982+00:00"
+    }
+  ],
+  "httpCache": {},
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
   "rssHtmlLastNotifiedCount": 0,
