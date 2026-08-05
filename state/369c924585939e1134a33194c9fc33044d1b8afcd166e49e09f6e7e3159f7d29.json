@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.kumamoto.jp/life/sub/7/index-2.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-05T16:50:52.1891749+00:00",
+  "updatedUtc": "2026-08-05T18:46:13.1461187+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -22,8 +22,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00225dc7-6584f82b5d1e1\u0022",
-    "lastModifiedUtc": "2026-08-05T16:46:18Z"
+    "eTag": "\u00225dc7-65850fb561c09\u0022",
+    "lastModifiedUtc": "2026-08-05T18:31:37Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
