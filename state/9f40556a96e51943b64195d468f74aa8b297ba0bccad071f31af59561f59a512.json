@@ -1,0 +1,16 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.meguro.tokyo.jp/kusei/kouchou/publiccomment/boshu/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-08-04T23:16:31.6078708+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {
+    "eTag": "\u00224107-6526949bc3d7b\u0022",
+    "lastModifiedUtc": "2026-05-22T15:00:22Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

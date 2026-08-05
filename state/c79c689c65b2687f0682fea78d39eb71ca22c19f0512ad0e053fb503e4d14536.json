@@ -1,0 +1,19 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.mie.lg.jp/app/rss/new_rss",
+  "feedType": "rss",
+  "updatedUtc": "2026-08-04T23:16:40.5303856+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "659011c3f6dd769fc2a635c7b9169fb2",
+      "title": "\u300C\u7B2C\uFF13\u6B21\u4E09\u91CD\u770C\u7537\u5973\u5171\u540C\u53C2\u753B\u57FA\u672C\u8A08\u753B\uFF08\u6539\u5B9A\u7248\uFF09\u300D\u4E2D\u9593\u6848\u306B\u5BFE\u3059\u308B\u610F\u898B\u52DF\u96C6",
+      "firstSeenAt": "2026-06-24T17:16:37.5120126+00:00"
+    }
+  ],
+  "httpCache": {},
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

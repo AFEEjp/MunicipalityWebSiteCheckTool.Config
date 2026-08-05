@@ -1,0 +1,32 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.aichi.jp/rss/10/list1.xml",
+  "feedType": "rss",
+  "updatedUtc": "2026-08-04T23:16:44.6870342+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "99d5649043b32a7025e6b92bc2ec9839",
+      "title": "\u611B\u77E5\u770C\u5B50\u3069\u3082\u30FB\u82E5\u8005\u610F\u898B\u53CD\u6620\u30EF\u30FC\u30AF\u30B7\u30E7\u30C3\u30D72026\u306E\u53C2\u52A0\u8005\u3092\u52DF\u96C6\u3057\u307E\u3059",
+      "firstSeenAt": "2026-05-25T04:48:38.7323914+00:00"
+    },
+    {
+      "key": "e7e4d270ef43b7faaa748f8b126199af",
+      "title": "\u300C\u5B50\u3069\u3082\u306E\u6A29\u5229\u306B\u95A2\u3059\u308B\u6761\u4F8B\uFF08\u4EEE\u79F0\uFF09\u300D\u9AA8\u5B50\uFF08\u6848\uFF09\u306B\u5BFE\u3057\u3066\u5B50\u3069\u3082\u30FB\u82E5\u8005\u306E\u307F\u306A\u3055\u3093\u304B\u3089\u306E\u610F\u898B\u3092\u52DF\u96C6\u3057\u307E\u3059\uFF01",
+      "firstSeenAt": "2026-07-01T05:53:24.2827036+00:00"
+    },
+    {
+      "key": "0e85787396db7a990a182b5c8b39a4da",
+      "title": "\u300C\u5B50\u3069\u3082\u306E\u6A29\u5229\u306B\u95A2\u3059\u308B\u6761\u4F8B\uFF08\u4EEE\u79F0\uFF09\u300D\u9AA8\u5B50\uFF08\u6848\uFF09\u306B\u5BFE\u3059\u308B\u610F\u898B\u306E\u52DF\u96C6\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-07-01T05:53:24.2829492+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u002214678-65840c00e3133\u0022",
+    "lastModifiedUtc": "2026-08-04T23:09:43Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

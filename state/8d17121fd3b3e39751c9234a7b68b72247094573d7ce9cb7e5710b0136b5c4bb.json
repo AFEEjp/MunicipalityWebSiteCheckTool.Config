@@ -1,0 +1,16 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.town.samukawa.kanagawa.jp/soshiki/fukushi/koreikaigo/kaigohoken/public_comment/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-08-04T23:16:35.2391857+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {
+    "eTag": "\u00226a67134f-10a97\u0022",
+    "lastModifiedUtc": "2026-07-27T08:14:07Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

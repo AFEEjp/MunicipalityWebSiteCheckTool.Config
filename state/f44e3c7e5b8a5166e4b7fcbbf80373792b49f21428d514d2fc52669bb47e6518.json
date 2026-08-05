@@ -1,0 +1,27 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.nagasaki.jp/doc/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-08-04T23:16:49.2047364+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "6ad0890fc76fdd5e347d22f08b1f172a",
+      "title": "\u30D1\u30D6\u30EA\u30C3\u30AF\u30B3\u30E1\u30F3\u30C8\u52DF\u96C6\u958B\u59CB\u306E\u304A\u77E5\u3089\u305B\uFF08\u9577\u5D0E\u770C\u4EBA\u6A29\u5C0A\u91CD\u3092\u4FC3\u3059\u6761\u4F8B\uFF08\u4EEE\u79F0\uFF09\uFF08\u7D20\u6848\uFF09\uFF09",
+      "firstSeenAt": "2026-07-13T00:08:00.3297356+00:00"
+    },
+    {
+      "key": "da315829568105fbe93f0629000f5e15",
+      "title": "\u9577\u5D0E\u770C\u4EBA\u6A29\u5C0A\u91CD\u3092\u4FC3\u3059\u6761\u4F8B\uFF08\u4EEE\u79F0\uFF09\uFF08\u7D20\u6848\uFF09\u306B\u5BFE\u3059\u308B\u30D1\u30D6\u30EA\u30C3\u30AF\u30B3\u30E1\u30F3\u30C8\u306E\u5B9F\u65BD\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-07-13T03:54:31.3615863+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u00222beec-65839ed2c2fb0\u0022",
+    "lastModifiedUtc": "2026-08-04T15:01:15Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

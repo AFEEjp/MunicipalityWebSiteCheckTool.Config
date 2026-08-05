@@ -1,0 +1,27 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.shizuoka.lg.jp/s3247/s007189.html",
+  "feedType": "html",
+  "updatedUtc": "2026-08-04T23:16:39.3124146+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "f7cc8c6dbbb5f5307b011fce1ae07be3",
+      "title": "\u540D\u52DD\u65E5\u672C\u5E73\u4FDD\u5B58\u6D3B\u7528\u8A08\u753B\u306E\u8A08\u753B\u6848\u3010\u6B74\u53F2\u6587\u5316\u8AB2\u3011",
+      "firstSeenAt": "2026-05-23T15:17:03.3602481+00:00"
+    },
+    {
+      "key": "a699e158da163ca203f832e6c66e06e9",
+      "title": "\u540D\u52DD\u4E09\u4FDD\u677E\u539F\u4FDD\u5B58\u6D3B\u7528\u8A08\u753B\u306E\u8A08\u753B\u6848\u3010\u6587\u5316\u8CA1\u8AB2(\u73FE\uFF1A\u6B74\u53F2\u6587\u5316\u8AB2)\u3011",
+      "firstSeenAt": "2026-05-23T15:17:03.3605027+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u00225a47-657e870bb4cbc\u0022",
+    "lastModifiedUtc": "2026-07-31T13:48:15Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

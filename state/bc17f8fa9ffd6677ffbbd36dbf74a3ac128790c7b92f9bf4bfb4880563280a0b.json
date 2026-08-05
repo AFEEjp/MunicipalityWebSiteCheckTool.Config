@@ -1,0 +1,32 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.bunkyo.lg.jp/b003/p006165.html",
+  "feedType": "html",
+  "updatedUtc": "2026-08-04T23:16:28.7218019+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "8a9709eb2487c4650f2dae796a148026",
+      "title": "\u300C\uFF08\u4EEE\u79F0\uFF09\u6587\u4EAC\u533A\u3053\u3069\u3082\u306E\u6A29\u5229\u306B\u95A2\u3059\u308B\u6761\u4F8B\uFF08\u7D20\u6848\uFF09\u300D\u306B\u3064\u3044\u3066\u306E\u610F\u898B\u52DF\u96C6",
+      "firstSeenAt": "2026-05-23T15:16:50.8964549+00:00"
+    },
+    {
+      "key": "863755f2599dd8a0a150034b972a84d3",
+      "title": "\u300C\u6587\u4EAC\u533A\u5B50\u3069\u3082\u8AAD\u66F8\u6D3B\u52D5\u63A8\u9032\u8A08\u753B\uFF08\u7D20\u6848\uFF09\u300D\u306B\u3064\u3044\u3066\u306E\u610F\u898B\u52DF\u96C6",
+      "firstSeenAt": "2026-05-23T15:16:50.8964895+00:00"
+    },
+    {
+      "key": "294236b2367823a75e629dd61af56114",
+      "title": "\u300C\uFF08\u4EEE\u79F0\uFF09\u6587\u4EAC\u533A\u82E5\u8005\u8A08\u753B\uFF08\u4EE4\u548C8\u5E74\u5EA6\uFF5E\u4EE4\u548C11\u5E74\u5EA6\uFF09\u4E2D\u9593\u306E\u307E\u3068\u3081\u300D\u306B\u3064\u3044\u3066\u306E\u610F\u898B\u52DF\u96C6",
+      "firstSeenAt": "2026-05-23T15:16:50.8965639+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u00225acc-65811ad380e50\u0022",
+    "lastModifiedUtc": "2026-08-02T15:00:04Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

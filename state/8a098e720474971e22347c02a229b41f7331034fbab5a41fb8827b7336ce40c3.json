@@ -1,0 +1,21 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.nerima.tokyo.jp/rss_news.xml",
+  "feedType": "rss",
+  "updatedUtc": "2026-08-04T23:16:47.3710639+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "581eb929c4220d2900249791da53f283",
+      "title": "\u3010\u5831\u9053\u767A\u8868\u8CC7\u6599\u3011\u4E2D\u5B66\u751F\u304C\u81EA\u7531\u306B\u610F\u898B\u8868\u660E\uFF01 \u7DF4\u99AC\u5B50\u3069\u3082\u8B70\u4F1A\u300C\u5B50\u3069\u3082\u63D0\u8A00\u767A\u8868\u4F1A\u300D\u3092\u958B\u50AC\u3057\u307E\u3059\uFF01",
+      "firstSeenAt": "2026-07-29T03:34:01.6432247+00:00"
+    }
+  ],
+  "httpCache": {
+    "lastModifiedUtc": "2026-08-04T23:00:03Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}

@@ -1,0 +1,37 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.gifu.lg.jp/page/203.html",
+  "feedType": "html",
+  "updatedUtc": "2026-08-04T23:16:23.1166+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "d5717e66f0838a1dfa7c35e3b08b0e15",
+      "title": "\u5C90\u961C\u770C\u3053\u3069\u3082\u306E\u8CA7\u56F0\u5BFE\u7B56\u5B9F\u884C\u8A08\u753B\uFF08\u7D20\u6848\uFF09",
+      "firstSeenAt": "2026-05-23T15:16:46.2533122+00:00"
+    },
+    {
+      "key": "72fe00cb4cd737196ece98377f95c9f7",
+      "title": "\u5C90\u961C\u770C\u5B50\u3069\u3082\u306E\u8AAD\u66F8\u6D3B\u52D5\u63A8\u9032\u8A08\u753B\uFF08\u7B2C\u4E94\u6B21\uFF09\uFF08\u6848\uFF09",
+      "firstSeenAt": "2026-05-23T15:16:46.2533664+00:00"
+    },
+    {
+      "key": "739ba470b06a5ed2d86896ce9da014a8",
+      "title": "\u7B2C5\u6B21\u5C90\u961C\u770C\u9752\u5C11\u5E74\u5065\u5168\u80B2\u6210\u8A08\u753B\uFF08\u6848\uFF09",
+      "firstSeenAt": "2026-05-23T15:16:46.2533799+00:00"
+    },
+    {
+      "key": "d781e47279121823c2aabb3afb9d8511",
+      "title": "\u5C90\u961C\u770C\u3053\u3069\u3082\u8A08\u753B\uFF08\u6848\uFF09",
+      "firstSeenAt": "2026-05-23T15:16:46.2534075+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u00228aaf-6583f0adebd5b\u0022",
+    "lastModifiedUtc": "2026-08-04T21:07:28Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0
+}
