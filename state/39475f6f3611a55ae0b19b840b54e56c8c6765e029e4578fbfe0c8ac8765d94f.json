@@ -2,12 +2,15 @@
   "version": 1,
   "feedUrl": "https://www.city.ushiku.lg.jp/rss.php?mode=news\u0026type=0",
   "feedType": "rss",
-  "updatedUtc": "2026-08-05T02:57:22.1536318+00:00",
+  "updatedUtc": "2026-08-05T05:54:37.1994414+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {},
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
   "rssHtmlLastNotifiedCount": 0,
-  "consecutiveFailureLastNotifiedCount": 0
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
 }

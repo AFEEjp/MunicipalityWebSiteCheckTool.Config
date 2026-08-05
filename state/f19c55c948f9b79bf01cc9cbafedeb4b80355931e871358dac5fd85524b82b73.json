@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.ehime.jp/rss/20/list1.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-05T02:57:15.2944937+00:00",
+  "updatedUtc": "2026-08-05T05:54:29.0501225+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -12,10 +12,16 @@
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-05T02:48:31Z"
+    "lastModifiedUtc": "2026-08-05T05:48:33Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
   "rssHtmlLastNotifiedCount": 0,
-  "consecutiveFailureLastNotifiedCount": 0
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "currentFingerprint": "migration-text-only|23a9d2a0779402466eb5fa2d0f2f7da50a14743a46d50b4b7d16d36c4c7e9e0d",
+    "consecutiveCount": 1,
+    "lastReason": "migration-text-only",
+    "lastConfidence": "low"
+  }
 }

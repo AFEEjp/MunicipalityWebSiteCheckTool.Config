@@ -2,12 +2,18 @@
   "version": 1,
   "feedUrl": "https://www.city.sakai.lg.jp/rss_news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-05T02:57:12.3351416+00:00",
+  "updatedUtc": "2026-08-05T05:54:26.2180076+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {},
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
   "rssHtmlLastNotifiedCount": 0,
-  "consecutiveFailureLastNotifiedCount": 0
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "currentFingerprint": "migration-text-only|09d247db0dd7e891189494607e55525c96cf19138b1aaf9908f71163b56d2419",
+    "consecutiveCount": 1,
+    "lastReason": "migration-text-only",
+    "lastConfidence": "low"
+  }
 }
