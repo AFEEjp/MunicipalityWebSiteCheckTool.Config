@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.oita.jp/rss/10/list1.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-05T14:30:38.8246784+00:00",
+  "updatedUtc": "2026-08-05T16:51:00.9836596+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -12,8 +12,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00221226c-6584d7fdfe7a6\u0022",
-    "lastModifiedUtc": "2026-08-05T14:22:21Z"
+    "eTag": "\u00221222f-6584f61fef266\u0022",
+    "lastModifiedUtc": "2026-08-05T16:37:10Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
