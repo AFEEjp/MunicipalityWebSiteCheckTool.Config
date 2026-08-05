@@ -2,9 +2,15 @@
   "version": 1,
   "feedUrl": "https://www.metro.tokyo.lg.jp/index.html/-/asset_publisher/knkg/rss",
   "feedType": "rss",
-  "updatedUtc": "2026-08-05T02:30:04.1588142+00:00",
+  "updatedUtc": "2026-08-05T02:35:32.0862379+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "e9d9c0970849c4425a9ea8b8a0fa73a1",
+      "title": "\u300C\u6771\u4EAC\u90FD\u7537\u5973\u5E73\u7B49\u53C2\u753B\u63A8\u9032\u7DCF\u5408\u8A08\u753B\u300D\u306E\u6539\u5B9A\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-08-05T02:35:32.0914491+00:00"
+    }
+  ],
   "httpCache": {},
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
