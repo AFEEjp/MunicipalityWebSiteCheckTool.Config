@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.shizuoka.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-08-06T03:34:22.6004176+00:00",
+  "updatedUtc": "2026-08-06T06:43:44.8680421+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -12,8 +12,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00227e57-6584e8cb6751c\u0022",
-    "lastModifiedUtc": "2026-08-05T15:37:31Z"
+    "eTag": "\u00227f84-658589e6815ce\u0022",
+    "lastModifiedUtc": "2026-08-06T03:38:18Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
