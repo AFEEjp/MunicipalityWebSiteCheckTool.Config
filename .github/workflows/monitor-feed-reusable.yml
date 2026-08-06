@@ -181,7 +181,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          npx -y playwright@1.54.0 install --with-deps chromium
+          npx -y playwright@1.61.0 install --with-deps chromium
 
       - name: Run feed monitor
         run: >
