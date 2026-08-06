@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.pref.aomori.lg.jp/rss/feed.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-08-06T09:49:19.4112359+00:00",
+  "updatedUtc": "2026-08-06T12:16:06.411959+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-06T09:30:20Z"
+    "lastModifiedUtc": "2026-08-06T12:00:25Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
@@ -14,7 +14,7 @@
   "consecutiveFailureLastNotifiedCount": 0,
   "urlMigration": {
     "currentFingerprint": "migration-text-only|e7ed972561f4c49e511adda45cd30872a36630d61959659cf83d9d1916f4cc94",
-    "consecutiveCount": 12,
+    "consecutiveCount": 13,
     "lastReason": "migration-text-only",
     "lastConfidence": "low",
     "lastNotifiedFingerprint": "migration-text-only|e7ed972561f4c49e511adda45cd30872a36630d61959659cf83d9d1916f4cc94",
