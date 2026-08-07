@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.sumida.lg.jp/rss_news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-07T11:06:07.7618738+00:00",
+  "updatedUtc": "2026-08-07T11:55:52.1574418+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
@@ -13,10 +13,7 @@
   "rssHtmlLastNotifiedCount": 0,
   "consecutiveFailureLastNotifiedCount": 0,
   "urlMigration": {
-    "currentFingerprint": "migration-text-only|4f0cf2ed4dc8055e103a60f847e610132c681fa12d8f7b1bf2b708f839d9c669",
-    "consecutiveCount": 13,
-    "lastReason": "migration-text-only",
-    "lastConfidence": "low",
+    "consecutiveCount": 0,
     "lastNotifiedFingerprint": "migration-text-only|4f0cf2ed4dc8055e103a60f847e610132c681fa12d8f7b1bf2b708f839d9c669",
     "lastNotifiedUtc": "2026-08-05T11:28:23.4660281+00:00"
   }
