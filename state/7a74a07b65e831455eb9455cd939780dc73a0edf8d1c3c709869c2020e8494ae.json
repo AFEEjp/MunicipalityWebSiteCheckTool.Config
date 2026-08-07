@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.pref.tokushima.lg.jp/file/rss/index.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-08-06T15:34:56.0712451+00:00",
+  "updatedUtc": "2026-08-07T00:13:46.9941365+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-06T15:30:07Z"
+    "lastModifiedUtc": "2026-08-07T00:00:05Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
@@ -14,7 +14,7 @@
   "consecutiveFailureLastNotifiedCount": 0,
   "urlMigration": {
     "currentFingerprint": "migration-text-only|43ab0e231b716f4a6d8fd273b0d3bf78d0fe8e6edb2d6c0200332eaa4dd91343",
-    "consecutiveCount": 14,
+    "consecutiveCount": 15,
     "lastReason": "migration-text-only",
     "lastConfidence": "low",
     "lastNotifiedFingerprint": "migration-text-only|43ab0e231b716f4a6d8fd273b0d3bf78d0fe8e6edb2d6c0200332eaa4dd91343",

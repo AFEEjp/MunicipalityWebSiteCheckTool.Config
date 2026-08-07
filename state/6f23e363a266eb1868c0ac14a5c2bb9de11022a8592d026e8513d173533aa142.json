@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.gifu.lg.jp/page/203.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-06T15:34:25.7323691+00:00",
+  "updatedUtc": "2026-08-07T00:13:24.8398207+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -27,8 +27,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00228aaf-658624068aea6\u0022",
-    "lastModifiedUtc": "2026-08-06T15:07:50Z"
+    "eTag": "\u00228aaf-6586747453145\u0022",
+    "lastModifiedUtc": "2026-08-06T21:07:40Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
