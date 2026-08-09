@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.sagamihara.kanagawa.jp/rss.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-08-07T13:34:54.8252274+00:00",
+  "updatedUtc": "2026-08-09T15:44:45.7659434+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u002210d4b-6586260893e7b\u0022",
-    "lastModifiedUtc": "2026-08-06T15:16:49Z"
+    "eTag": "\u002210d74-6589eba4b8584\u0022",
+    "lastModifiedUtc": "2026-08-09T15:16:53Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
