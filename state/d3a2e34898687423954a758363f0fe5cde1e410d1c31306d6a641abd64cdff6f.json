@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.osaka.lg.jp/main/rss/rss.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-09T21:46:14.7992974+00:00",
+  "updatedUtc": "2026-08-09T22:47:31.1616194+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-09T21:02:01Z"
+    "lastModifiedUtc": "2026-08-09T22:02:00Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
