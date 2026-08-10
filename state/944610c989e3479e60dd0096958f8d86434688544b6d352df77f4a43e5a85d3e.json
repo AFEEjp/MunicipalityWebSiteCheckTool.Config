@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.hokkaido.lg.jp/category/d001/c002/s003/",
   "feedType": "html",
-  "updatedUtc": "2026-08-09T23:43:17.8582283+00:00",
+  "updatedUtc": "2026-08-10T02:30:48.471911+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -37,8 +37,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00226a790d96-723f\u0022",
-    "lastModifiedUtc": "2026-08-09T23:30:30Z"
+    "eTag": "\u00226a7937cf-723f\u0022",
+    "lastModifiedUtc": "2026-08-10T02:30:39Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
