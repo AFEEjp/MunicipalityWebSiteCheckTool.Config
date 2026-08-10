@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.arakawa.tokyo.jp/news/ippan_all.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-10T06:21:18.4932759+00:00",
+  "updatedUtc": "2026-08-10T08:49:54.7571576+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00229c22-658a99931a9b8\u0022",
-    "lastModifiedUtc": "2026-08-10T04:15:03Z"
+    "eTag": "\u00229bf4-658ad0b30e042\u0022",
+    "lastModifiedUtc": "2026-08-10T08:21:40Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
