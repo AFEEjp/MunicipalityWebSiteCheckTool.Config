@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.fukushima.lg.jp/rss/10/list1.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-11T22:01:03.2172822+00:00",
+  "updatedUtc": "2026-08-11T22:59:10.6507136+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -12,8 +12,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u002211f30-658cc3d7014c5\u0022",
-    "lastModifiedUtc": "2026-08-11T21:34:47Z"
+    "eTag": "\u002211f30-658cd147aa02e\u0022",
+    "lastModifiedUtc": "2026-08-11T22:34:55Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
