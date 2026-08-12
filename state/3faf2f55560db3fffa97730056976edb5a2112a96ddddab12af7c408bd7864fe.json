@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.shizuoka.lg.jp/s3247/s007189.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-12T06:40:20.9072168+00:00",
+  "updatedUtc": "2026-08-12T09:51:52.8734783+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -17,8 +17,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00225a18-658a99f3ae5c8\u0022",
-    "lastModifiedUtc": "2026-08-10T04:16:44Z"
+    "eTag": "\u00225a03-658d3bca49dee\u0022",
+    "lastModifiedUtc": "2026-08-12T06:31:26Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
