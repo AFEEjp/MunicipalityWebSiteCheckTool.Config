@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.akita.lg.jp/feed/news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-12T02:40:48.7613815+00:00",
+  "updatedUtc": "2026-08-12T04:58:26.6095623+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -18,7 +18,7 @@
   "consecutiveFailureLastNotifiedCount": 0,
   "urlMigration": {
     "currentFingerprint": "migration-text-only|f5b383114be2adf07ecf3e6a67f01711f54cb73db9d4b6933511cabd0a761825",
-    "consecutiveCount": 47,
+    "consecutiveCount": 48,
     "lastReason": "migration-text-only",
     "lastConfidence": "low",
     "lastNotifiedFingerprint": "migration-text-only|f5b383114be2adf07ecf3e6a67f01711f54cb73db9d4b6933511cabd0a761825",
