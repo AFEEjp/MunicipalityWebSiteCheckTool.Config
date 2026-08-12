@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.gifu.lg.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-08-12T17:10:57.7750038+00:00",
+  "updatedUtc": "2026-08-12T19:17:44.8015218+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00225c9a-658db2109cca9\u0022",
+    "eTag": "\u00225c9a-658db210016c0\u0022",
     "lastModifiedUtc": "2026-08-12T15:20:35Z"
   },
   "consecutiveFailures": 0,
