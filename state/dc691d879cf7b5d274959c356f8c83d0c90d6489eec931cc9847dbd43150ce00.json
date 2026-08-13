@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.itabashi.tokyo.jp/rss/news_release.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-08-13T08:42:08.6162462+00:00",
+  "updatedUtc": "2026-08-13T10:21:13.5623959+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022c1ba-658e50713cba2\u0022",
-    "lastModifiedUtc": "2026-08-13T03:09:09Z"
+    "eTag": "\u0022c1ba-658ea0b1728d1\u0022",
+    "lastModifiedUtc": "2026-08-13T09:08:11Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
