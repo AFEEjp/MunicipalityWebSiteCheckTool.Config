@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.gunma.jp/page/16405.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-13T02:43:03.7828784+00:00",
+  "updatedUtc": "2026-08-13T05:03:09.6613272+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
     "eTag": "\u0022eecb1aa2\u0022",
-    "lastModifiedUtc": "2026-08-08T17:17:47Z"
+    "lastModifiedUtc": "2026-08-12T17:17:20Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
