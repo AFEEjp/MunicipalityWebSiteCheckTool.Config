@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.osaka.lg.jp/templates/jorei_boshu/0-Curr.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-13T20:59:21.6182619+00:00",
+  "updatedUtc": "2026-08-13T21:58:52.9380696+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -22,7 +22,7 @@
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-13T20:02:53Z"
+    "lastModifiedUtc": "2026-08-13T21:02:37Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
