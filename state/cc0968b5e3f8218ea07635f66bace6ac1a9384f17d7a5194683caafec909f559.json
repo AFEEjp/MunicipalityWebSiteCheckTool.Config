@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.fukuoka.lg.jp/data/open/rss/RSS_7354.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-13T18:07:28.7256367+00:00",
+  "updatedUtc": "2026-08-13T19:18:18.8712254+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u002259f-658de2d0173ff-gzip\u0022",
-    "lastModifiedUtc": "2026-08-12T18:58:41Z"
+    "eTag": "\u002259f-658f247ab03d2-gzip\u0022",
+    "lastModifiedUtc": "2026-08-13T18:57:47Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
