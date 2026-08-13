@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.matsudo.chiba.jp/rss_news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-13T13:41:22.8552082+00:00",
+  "updatedUtc": "2026-08-13T15:12:13.844058+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-13T13:33:36Z"
+    "lastModifiedUtc": "2026-08-13T15:00:03Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

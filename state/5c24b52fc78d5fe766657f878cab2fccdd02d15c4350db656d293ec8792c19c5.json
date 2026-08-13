@@ -2,17 +2,22 @@
   "version": 1,
   "feedUrl": "https://www.pref.ehime.jp/page/7417.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-13T13:41:08.0815701+00:00",
+  "updatedUtc": "2026-08-13T15:12:00.9743692+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "0a2ff2140b7c17cf033f96e8a1d3659c",
       "title": "\u7B2C\u4E09\u6B21\u611B\u5A9B\u770C\u30AE\u30E3\u30F3\u30D6\u30EB\u7B49\u4F9D\u5B58\u75C7\u5BFE\u7B56\u63A8\u9032\u8A08\u753B\uFF08\u6848\uFF09",
       "firstSeenAt": "2026-05-23T15:16:48.7034427+00:00"
+    },
+    {
+      "key": "3db3bef28b6ce7c5b05bc93767cf035d",
+      "title": "\u7B2C3\u6B21\u611B\u5A9B\u770C\u7537\u5973\u5171\u540C\u53C2\u753B\u8A08\u753B\u4E2D\u9593\u6539\u5B9A\uFF08\u6848\uFF09",
+      "firstSeenAt": "2026-08-13T15:12:00.9795765+00:00"
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-12T16:06:26Z"
+    "lastModifiedUtc": "2026-08-13T15:01:56Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

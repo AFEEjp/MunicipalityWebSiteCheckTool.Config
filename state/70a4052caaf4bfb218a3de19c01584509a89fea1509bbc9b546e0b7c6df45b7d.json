@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.kanonji.kagawa.jp/rss/10/list1.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-13T13:41:33.2273774+00:00",
+  "updatedUtc": "2026-08-13T15:12:23.0320642+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-13T13:31:11Z"
+    "lastModifiedUtc": "2026-08-13T15:01:32Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
