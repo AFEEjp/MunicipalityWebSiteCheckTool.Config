@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.yamaguchi.lg.jp/rss/10/list6.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-13T15:12:15.4952488+00:00",
+  "updatedUtc": "2026-08-13T16:10:51.9883521+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u002232fa-658ef06d70f81\u0022",
-    "lastModifiedUtc": "2026-08-13T15:04:55Z"
+    "eTag": "\u002232fa-658efdefe59d7\u0022",
+    "lastModifiedUtc": "2026-08-13T16:05:21Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

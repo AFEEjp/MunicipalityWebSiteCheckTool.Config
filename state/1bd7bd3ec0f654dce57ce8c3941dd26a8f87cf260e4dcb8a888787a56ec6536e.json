@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.metro.tokyo.lg.jp/index.html/-/asset_publisher/knkg/rss",
   "feedType": "rss",
-  "updatedUtc": "2026-08-13T15:12:18.4219737+00:00",
+  "updatedUtc": "2026-08-13T16:10:56.1487622+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -18,7 +18,7 @@
   "consecutiveFailureLastNotifiedCount": 0,
   "urlMigration": {
     "currentFingerprint": "migration-text-only|5986e4f50697ef109e3226e6ca236db46364119683f29149a77094d49fe8b6ae",
-    "consecutiveCount": 5,
+    "consecutiveCount": 6,
     "lastReason": "migration-text-only",
     "lastConfidence": "low",
     "lastNotifiedFingerprint": "migration-text-only|5986e4f50697ef109e3226e6ca236db46364119683f29149a77094d49fe8b6ae",
