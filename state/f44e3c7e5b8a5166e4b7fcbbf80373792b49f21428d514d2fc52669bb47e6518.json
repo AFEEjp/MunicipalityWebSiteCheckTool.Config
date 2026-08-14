@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.nagasaki.jp/doc/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-14T02:41:45.2545147+00:00",
+  "updatedUtc": "2026-08-14T04:58:44.9347915+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -17,8 +17,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00222ab3f-658f79fbab571-gzip\u0022",
-    "lastModifiedUtc": "2026-08-14T01:20:20Z"
+    "eTag": "\u00222aa13-658fa4f3cb26b-gzip\u0022",
+    "lastModifiedUtc": "2026-08-14T04:32:34Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
