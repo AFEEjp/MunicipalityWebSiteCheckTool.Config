@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.koto.lg.jp/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-14T08:36:08.1058416+00:00",
+  "updatedUtc": "2026-08-14T10:15:20.0451487+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -12,8 +12,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00223d8f-658fda0ddd281\u0022",
-    "lastModifiedUtc": "2026-08-14T08:30:09Z"
+    "eTag": "\u00223db0-658fe773837bf\u0022",
+    "lastModifiedUtc": "2026-08-14T09:30:05Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

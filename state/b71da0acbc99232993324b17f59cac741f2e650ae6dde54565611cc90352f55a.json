@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.shiga.lg.jp/file/rss/kensei_koho_e-shinbun_bosyuu_index.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-08-14T08:36:09.6951601+00:00",
+  "updatedUtc": "2026-08-14T10:15:21.0086086+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022e641-658fd8e921e0b\u0022",
-    "lastModifiedUtc": "2026-08-14T08:25:02Z"
+    "eTag": "\u0022e641-658ff0618b468\u0022",
+    "lastModifiedUtc": "2026-08-14T10:10:02Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
