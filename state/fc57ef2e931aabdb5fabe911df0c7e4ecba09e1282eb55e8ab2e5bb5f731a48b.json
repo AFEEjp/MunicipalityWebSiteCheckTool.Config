@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.hiroshima.lg.jp/soshiki/19/1177324369710.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-14T13:36:41.8299326+00:00",
+  "updatedUtc": "2026-08-16T15:33:28.5205951+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00226c2d-658effaa64f14\u0022",
-    "lastModifiedUtc": "2026-08-13T16:13:05Z"
+    "eTag": "\u00226c2d-659183ab347a0\u0022",
+    "lastModifiedUtc": "2026-08-15T16:14:19Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
