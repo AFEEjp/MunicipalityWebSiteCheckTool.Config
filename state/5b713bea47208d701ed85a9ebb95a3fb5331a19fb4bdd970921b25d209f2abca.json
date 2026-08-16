@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.fukuoka.lg.jp/shisei/iken-teian/publiccomment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-16T18:45:00.2640137+00:00",
+  "updatedUtc": "2026-08-16T19:31:01.1769527+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -17,8 +17,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u0022ab1e-6591a62bd561b-gzip\u0022",
-    "lastModifiedUtc": "2026-08-15T18:48:40Z"
+    "eTag": "\u0022ab1e-6592e807c2826-gzip\u0022",
+    "lastModifiedUtc": "2026-08-16T18:48:39Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
