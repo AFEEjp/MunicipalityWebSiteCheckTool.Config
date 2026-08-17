@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.toda.saitama.jp/rss/10/site-28.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-16T23:32:21.8823696+00:00",
+  "updatedUtc": "2026-08-17T01:53:38.5903672+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-16T23:31:29Z"
+    "lastModifiedUtc": "2026-08-17T01:46:26Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
