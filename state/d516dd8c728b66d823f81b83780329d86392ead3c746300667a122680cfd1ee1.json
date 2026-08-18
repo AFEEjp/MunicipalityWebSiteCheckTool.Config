@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.osaka.lg.jp/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-17T23:35:13.5681819+00:00",
+  "updatedUtc": "2026-08-18T07:50:48.3727312+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00229fea-659370bedf98c\u0022",
-    "lastModifiedUtc": "2026-08-17T05:00:18Z"
+    "eTag": "\u0022a056-6594b2a227776\u0022",
+    "lastModifiedUtc": "2026-08-18T05:00:24Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

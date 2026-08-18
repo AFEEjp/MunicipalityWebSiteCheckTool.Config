@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.soumu.metro.tokyo.lg.jp/01soumu-johokokaika/jyuyokohyo/2",
   "feedType": "html",
-  "updatedUtc": "2026-08-17T23:34:45.8277625+00:00",
+  "updatedUtc": "2026-08-18T07:50:30.0427782+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -22,7 +22,7 @@
     }
   ],
   "httpCache": {},
-  "consecutiveFailures": 1,
+  "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
   "rssHtmlLastNotifiedCount": 0,
   "consecutiveFailureLastNotifiedCount": 0,
