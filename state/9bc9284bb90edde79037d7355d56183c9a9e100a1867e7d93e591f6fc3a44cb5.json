@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.oita.jp/site/public-comment/list21971-27248.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-18T20:37:52.7434667+00:00",
+  "updatedUtc": "2026-08-18T21:35:25.785101+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00224414-659580e3c65b2\u0022",
-    "lastModifiedUtc": "2026-08-18T20:23:11Z"
+    "eTag": "\u00224414-65958d14c2f03\u0022",
+    "lastModifiedUtc": "2026-08-18T21:17:43Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
