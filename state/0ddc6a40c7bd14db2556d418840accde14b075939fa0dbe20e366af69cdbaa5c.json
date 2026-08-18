@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.kita.lg.jp/city-information/feedback/1014238/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-18T22:37:52.3163806+00:00",
+  "updatedUtc": "2026-08-18T23:33:56.7356801+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -27,8 +27,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u0022e8a1-65958ae29d97b\u0022",
-    "lastModifiedUtc": "2026-08-18T21:07:54Z"
+    "eTag": "\u0022e8a1-6595a5b3acef1\u0022",
+    "lastModifiedUtc": "2026-08-18T23:07:52Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
