@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.niigata.lg.jp/shisei/kocho/public/bosyuseisaku.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-19T14:50:05.4006984+00:00",
+  "updatedUtc": "2026-08-19T15:44:34.6892854+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-16T15:01:22Z"
+    "lastModifiedUtc": "2026-08-19T15:01:19Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

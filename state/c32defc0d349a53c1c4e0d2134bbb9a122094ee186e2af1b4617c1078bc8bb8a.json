@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.kumamoto.jp/kiji003283/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-19T14:50:18.5447408+00:00",
+  "updatedUtc": "2026-08-19T15:44:47.2026197+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -22,8 +22,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u0022827585c1802fdd1:0\u0022",
-    "lastModifiedUtc": "2026-08-19T02:16:34Z"
+    "eTag": "\u002261e882bbed2fdd1:0\u0022",
+    "lastModifiedUtc": "2026-08-19T15:16:39Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
