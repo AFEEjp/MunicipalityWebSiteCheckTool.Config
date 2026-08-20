@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.saitama.lg.jp/news/news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-20T05:44:08.1251443+00:00",
+  "updatedUtc": "2026-08-20T07:03:49.599753+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00223999-65970e26cf649\u0022",
-    "lastModifiedUtc": "2026-08-20T02:00:30Z"
+    "eTag": "\u00223989-6597511ed3f49\u0022",
+    "lastModifiedUtc": "2026-08-20T07:00:07Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
