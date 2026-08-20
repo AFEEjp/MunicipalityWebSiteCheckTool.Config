@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.kumamoto.jp/new_list.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-20T14:52:22.848802+00:00",
+  "updatedUtc": "2026-08-20T15:47:33.0550461+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -12,8 +12,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00222f9bddde9430dd1:0\u0022",
-    "lastModifiedUtc": "2026-08-20T11:13:04Z"
+    "eTag": "\u002236f1a697b430dd1:0\u0022",
+    "lastModifiedUtc": "2026-08-20T15:00:08Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.asaka.lg.jp/rss/10/list1.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-20T14:52:30.9835698+00:00",
+  "updatedUtc": "2026-08-20T15:47:40.2979094+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-20T14:46:37Z"
+    "lastModifiedUtc": "2026-08-20T15:31:38Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
