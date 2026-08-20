@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.katsushika.lg.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-08-20T07:54:02.7939468+00:00",
+  "updatedUtc": "2026-08-20T08:54:08.1679677+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00221010e-65971f2b93870\u0022",
-    "lastModifiedUtc": "2026-08-20T03:16:38Z"
+    "eTag": "\u0022100e6-6597624da61da\u0022",
+    "lastModifiedUtc": "2026-08-20T08:16:59Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
