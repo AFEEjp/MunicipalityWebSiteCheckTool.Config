@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.aomori.lg.jp/rss/feed.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-08-20T10:44:52.2022682+00:00",
+  "updatedUtc": "2026-08-20T11:38:44.0234273+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -12,7 +12,7 @@
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-20T10:30:21Z"
+    "lastModifiedUtc": "2026-08-20T11:30:21Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
