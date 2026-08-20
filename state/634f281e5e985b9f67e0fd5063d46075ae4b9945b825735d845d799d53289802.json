@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.yamaguchi.lg.jp/soshiki/21/13213.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-20T18:56:51.9944874+00:00",
+  "updatedUtc": "2026-08-20T19:41:51.1007143+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -12,8 +12,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00225f85-6597e8f2439e8\u0022",
-    "lastModifiedUtc": "2026-08-20T18:19:22Z"
+    "eTag": "\u00225f85-6597f64aee057\u0022",
+    "lastModifiedUtc": "2026-08-20T19:19:05Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

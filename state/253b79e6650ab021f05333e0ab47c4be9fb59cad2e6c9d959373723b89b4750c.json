@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.fukuoka.lg.jp/life/8/72/259/",
   "feedType": "html",
-  "updatedUtc": "2026-08-20T18:57:05.9918384+00:00",
+  "updatedUtc": "2026-08-20T19:42:08.989866+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -22,8 +22,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u002213ae4-6597ef3d8b07f\u0022",
-    "lastModifiedUtc": "2026-08-20T18:47:32Z"
+    "eTag": "\u002213ae4-6597f94a7d70c\u0022",
+    "lastModifiedUtc": "2026-08-20T19:32:30Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
