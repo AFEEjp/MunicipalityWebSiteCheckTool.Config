@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.nagoya.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-08-20T03:08:40.3199263+00:00",
+  "updatedUtc": "2026-08-20T03:56:44.8831691+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u002211b18-65968015c5d8c\u0022",
-    "lastModifiedUtc": "2026-08-19T15:24:54Z"
+    "eTag": "\u002211b51-659720fa7c458\u0022",
+    "lastModifiedUtc": "2026-08-20T03:24:44Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
