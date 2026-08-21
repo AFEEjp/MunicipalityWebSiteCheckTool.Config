@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.kawasaki.jp/templates/pubcom/0-Curr-10-20.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-21T03:14:24.4077473+00:00",
+  "updatedUtc": "2026-08-21T04:51:26.3906932+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-21T03:04:42Z"
+    "lastModifiedUtc": "2026-08-21T04:34:32Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
