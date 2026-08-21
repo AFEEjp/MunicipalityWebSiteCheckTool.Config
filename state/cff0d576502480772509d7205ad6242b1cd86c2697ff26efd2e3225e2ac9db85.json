@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.kumamoto.jp/rss/10/list1.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-21T05:46:24.7292887+00:00",
+  "updatedUtc": "2026-08-21T07:05:42.9640042+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00221174f-65987f56243c7\u0022",
-    "lastModifiedUtc": "2026-08-21T05:32:12Z"
+    "eTag": "\u00221174f-65989378760df\u0022",
+    "lastModifiedUtc": "2026-08-21T07:02:17Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
