@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.hiroshima.lg.jp/rss/10/list1.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-21T04:51:38.9804595+00:00",
+  "updatedUtc": "2026-08-21T05:46:18.6487464+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -12,8 +12,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u002212678-6598730262d9d\u0022",
-    "lastModifiedUtc": "2026-08-21T04:37:03Z"
+    "eTag": "\u00221264f-6598806bafd6d\u0022",
+    "lastModifiedUtc": "2026-08-21T05:37:03Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
