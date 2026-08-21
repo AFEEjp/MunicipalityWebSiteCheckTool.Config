@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.iwate.jp/public_comment/1073736/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-20T23:37:23.2331511+00:00",
+  "updatedUtc": "2026-08-21T01:55:53.6094944+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -52,8 +52,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u0022e013-6597c25199956\u0022",
-    "lastModifiedUtc": "2026-08-20T15:26:33Z"
+    "eTag": "\u0022e013-659847e1e7ffc\u0022",
+    "lastModifiedUtc": "2026-08-21T01:24:06Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
