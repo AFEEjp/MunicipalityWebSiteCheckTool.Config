@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTLIST\u0026Mode=0",
   "feedType": "html",
-  "updatedUtc": "2026-08-21T10:43:50.7173018+00:00",
+  "updatedUtc": "2026-08-21T11:37:34.9089797+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {},
