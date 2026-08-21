@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.pref.nagano.lg.jp/kensei/koho/pressreleases/pressreleases.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-21T01:56:32.4319903+00:00",
+  "updatedUtc": "2026-08-21T03:14:46.3400345+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-21T01:02:09Z"
+    "lastModifiedUtc": "2026-08-21T02:22:56Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
