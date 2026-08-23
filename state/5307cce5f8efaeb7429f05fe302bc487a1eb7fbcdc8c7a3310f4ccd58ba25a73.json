@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.asaka.lg.jp/life/4/38/179/",
   "feedType": "html",
-  "updatedUtc": "2026-08-21T14:50:36.4796057+00:00",
+  "updatedUtc": "2026-08-23T15:34:15.2686289+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -17,7 +17,7 @@
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-21T14:45:48Z"
+    "lastModifiedUtc": "2026-08-23T15:30:52Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
