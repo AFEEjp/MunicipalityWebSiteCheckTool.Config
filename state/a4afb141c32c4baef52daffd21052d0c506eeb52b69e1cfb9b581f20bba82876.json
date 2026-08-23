@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.iwate.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-08-23T15:34:58.4719806+00:00",
+  "updatedUtc": "2026-08-23T16:39:36.9193492+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022118d1-659b529347725\u0022",
-    "lastModifiedUtc": "2026-08-23T11:27:55Z"
+    "eTag": "\u002211905-659b896a18145\u0022",
+    "lastModifiedUtc": "2026-08-23T15:33:16Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
