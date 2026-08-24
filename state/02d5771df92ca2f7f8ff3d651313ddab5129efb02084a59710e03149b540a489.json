@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.ota.tokyo.jp/oshirase/rss_news.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-24T05:50:52.9264159+00:00",
+  "updatedUtc": "2026-08-24T07:17:38.2532796+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-24T00:44:00Z"
+    "lastModifiedUtc": "2026-08-24T05:35:00Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
