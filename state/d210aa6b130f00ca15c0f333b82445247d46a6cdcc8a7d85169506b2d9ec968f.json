@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.kyoto.lg.jp/main/rss/rss_new.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-24T19:40:20.9679373+00:00",
+  "updatedUtc": "2026-08-24T20:45:54.9905313+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-24T19:00:35Z"
+    "lastModifiedUtc": "2026-08-24T20:00:34Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
