@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.kita.lg.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-08-24T09:01:28.4797292+00:00",
+  "updatedUtc": "2026-08-24T10:00:33.1533547+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u002296d8-659c67cafeba1\u0022",
-    "lastModifiedUtc": "2026-08-24T08:08:10Z"
+    "eTag": "\u002296d8-659c753a9048d\u0022",
+    "lastModifiedUtc": "2026-08-24T09:08:17Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
