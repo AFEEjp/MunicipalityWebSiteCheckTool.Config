@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.ishikawa.lg.jp/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-25T05:45:07.1084058+00:00",
+  "updatedUtc": "2026-08-25T07:06:06.2101002+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00221cf9-659d7fa6402e5\u0022",
-    "lastModifiedUtc": "2026-08-25T05:00:13Z"
+    "eTag": "\u00221cf9-659d8d22dd767\u0022",
+    "lastModifiedUtc": "2026-08-25T06:00:34Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
