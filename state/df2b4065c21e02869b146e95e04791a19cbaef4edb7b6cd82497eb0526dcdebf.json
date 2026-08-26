@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.edogawa.tokyo.jp/news/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-26T07:57:21.5997246+00:00",
+  "updatedUtc": "2026-08-26T09:00:13.4102123+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u002298f6-659edc511f0c6\u0022",
-    "lastModifiedUtc": "2026-08-26T07:00:08Z"
+    "eTag": "\u002298e7-659ee9c18bd65\u0022",
+    "lastModifiedUtc": "2026-08-26T08:00:16Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
