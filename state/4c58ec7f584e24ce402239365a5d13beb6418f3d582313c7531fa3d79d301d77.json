@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.adachi.tokyo.jp/ku/mado/p-comment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-26T14:59:15.7191591+00:00",
+  "updatedUtc": "2026-08-26T16:33:54.5846046+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -22,8 +22,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u002267f7-659ea0030a15c\u0022",
-    "lastModifiedUtc": "2026-08-26T02:30:20Z"
+    "eTag": "\u002267f7-659f480c51f10\u0022",
+    "lastModifiedUtc": "2026-08-26T15:02:07Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
