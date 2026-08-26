@@ -2,11 +2,11 @@
   "version": 1,
   "feedUrl": "https://www.city.sendai.jp/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-25T23:35:35.4544545+00:00",
+  "updatedUtc": "2026-08-26T01:56:27.2163282+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-25T15:30:12Z"
+    "lastModifiedUtc": "2026-08-26T00:13:44Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

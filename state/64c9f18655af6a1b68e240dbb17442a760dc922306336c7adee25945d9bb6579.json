@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.gifu.lg.jp/rss/10/list1.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-25T23:35:36.201112+00:00",
+  "updatedUtc": "2026-08-26T01:56:28.964486+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -12,8 +12,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u002210a95-659e783364303\u0022",
-    "lastModifiedUtc": "2026-08-25T23:32:13Z"
+    "eTag": "\u002210a67-659e96618795c\u0022",
+    "lastModifiedUtc": "2026-08-26T01:47:15Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
