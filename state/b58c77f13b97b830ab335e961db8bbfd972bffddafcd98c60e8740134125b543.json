@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.kochi.lg.jp/category/bunya/kenseijoho/public_comment/index.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-08-28T05:22:52.8362045+00:00",
+  "updatedUtc": "2026-08-30T17:26:54.8190712+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00226a8e3a26-464d\u0022",
-    "lastModifiedUtc": "2026-08-26T00:58:14Z"
+    "eTag": "\u00226a944584-44a8\u0022",
+    "lastModifiedUtc": "2026-08-30T15:00:20Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
