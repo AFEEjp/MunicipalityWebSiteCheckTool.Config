@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.fuji.shizuoka.jp/shiseijoho/kocho/publiccomment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-31T20:01:05.5426618+00:00",
+  "updatedUtc": "2026-08-31T23:49:16.7104254+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00227fdf-6596ef7ea2020\u0022",
-    "lastModifiedUtc": "2026-08-19T23:43:20Z"
+    "eTag": "\u00227fdf-65a590fdb672d\u0022",
+    "lastModifiedUtc": "2026-08-31T15:00:24Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
