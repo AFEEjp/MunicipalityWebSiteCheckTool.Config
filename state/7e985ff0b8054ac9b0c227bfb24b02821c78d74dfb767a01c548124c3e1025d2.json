@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.fukushima.lg.jp/sec/01010e/koucho1-004.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-31T13:38:16.9681798+00:00",
+  "updatedUtc": "2026-08-31T20:01:01.0991585+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00222e85-65a457ef9e135\u0022",
-    "lastModifiedUtc": "2026-08-30T15:39:49Z"
+    "eTag": "\u00222e85-65a599d38fa63\u0022",
+    "lastModifiedUtc": "2026-08-31T15:39:56Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

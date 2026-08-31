@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.ibaraki.jp/bosyu.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-31T13:38:57.0768661+00:00",
+  "updatedUtc": "2026-08-31T20:01:42.3457443+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00223e58-65a525b53c487\u0022",
-    "lastModifiedUtc": "2026-08-31T07:00:26Z"
+    "eTag": "\u00223f4b-65a593442c12a\u0022",
+    "lastModifiedUtc": "2026-08-31T15:10:35Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

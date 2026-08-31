@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.okayama.jp/rss/10/list1.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-31T13:38:35.6971493+00:00",
+  "updatedUtc": "2026-08-31T20:01:21.173887+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00221102b-65a57e4c239bc\u0022",
-    "lastModifiedUtc": "2026-08-31T13:36:46Z"
+    "eTag": "\u00221102b-65a5d2265850a\u0022",
+    "lastModifiedUtc": "2026-08-31T19:51:55Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
