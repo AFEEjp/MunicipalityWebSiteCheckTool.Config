@@ -2,15 +2,15 @@
   "version": 1,
   "feedUrl": "https://www.pref.yamanashi.jp/gyoukaku/public/gyoukaku/boshuchu.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-30T23:28:27.6034245+00:00",
+  "updatedUtc": "2026-08-31T05:27:36.3388325+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
     "eTag": "\u002231a9-64edad7736a11\u0022",
     "lastModifiedUtc": "2026-04-07T08:48:04Z"
   },
-  "consecutiveFailures": 6,
-  "circuitOpenUntil": "2026-08-30T23:58:27.6034192+00:00",
+  "consecutiveFailures": 7,
+  "circuitOpenUntil": "2026-08-31T05:57:36.3388263+00:00",
   "rssHtmlMismatchCount": 0,
   "rssHtmlLastNotifiedCount": 0,
   "consecutiveFailureLastNotifiedCount": 6,
