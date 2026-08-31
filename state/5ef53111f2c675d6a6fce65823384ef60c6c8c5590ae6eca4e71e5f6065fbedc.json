@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.fujisawa.kanagawa.jp/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-31T05:27:53.9208524+00:00",
+  "updatedUtc": "2026-08-31T13:38:55.5867248+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00221e0c-65a4fd6cab8ce\u0022",
-    "lastModifiedUtc": "2026-08-31T04:00:12Z"
+    "eTag": "\u00221dd9-65a54071cb253\u0022",
+    "lastModifiedUtc": "2026-08-31T09:00:03Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

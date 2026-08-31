@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.chiba.lg.jp/homepage/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-08-31T05:27:24.1407415+00:00",
+  "updatedUtc": "2026-08-31T13:38:25.953056+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00227a53-65a50c81c3062\u0022",
-    "lastModifiedUtc": "2026-08-31T05:07:41Z"
+    "eTag": "\u00227aad-65a53bff0098f\u0022",
+    "lastModifiedUtc": "2026-08-31T08:40:09Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

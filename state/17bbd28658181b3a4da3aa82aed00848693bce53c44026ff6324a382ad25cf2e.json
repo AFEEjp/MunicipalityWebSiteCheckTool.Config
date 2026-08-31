@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.tokyo-nakano.lg.jp/allNewsList.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-31T05:26:46.4951293+00:00",
+  "updatedUtc": "2026-08-31T13:37:45.1926589+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -12,14 +12,18 @@
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-31T05:00:01Z"
+    "lastModifiedUtc": "2026-08-31T13:30:01Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
   "rssHtmlLastNotifiedCount": 0,
   "consecutiveFailureLastNotifiedCount": 0,
   "urlMigration": {
-    "consecutiveCount": 0,
+    "currentFingerprint": "migration-link|f65322480d704b1fb3a327982cfa51bbea2a4dd6cf70db53da4c244fe3650f7b",
+    "consecutiveCount": 1,
+    "lastReason": "migration-link",
+    "lastCandidateUrl": "https://www.city.tokyo-nakano.lg.jp/event/heiwa.html",
+    "lastConfidence": "medium",
     "lastNotifiedFingerprint": "migration-link|f65322480d704b1fb3a327982cfa51bbea2a4dd6cf70db53da4c244fe3650f7b",
     "lastNotifiedUtc": "2026-08-07T09:14:33.0453586+00:00"
   }

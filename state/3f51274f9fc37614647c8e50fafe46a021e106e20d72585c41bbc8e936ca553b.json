@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.town.saitama-misato.lg.jp/news/0001.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-31T05:26:32.9418686+00:00",
+  "updatedUtc": "2026-08-31T13:37:30.4641596+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022359b-65a50acc3ffa3\u0022",
-    "lastModifiedUtc": "2026-08-31T05:00:02Z"
+    "eTag": "\u0022359b-65a5761614cd4\u0022",
+    "lastModifiedUtc": "2026-08-31T13:00:02Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
