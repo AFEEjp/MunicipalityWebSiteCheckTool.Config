@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.hino.lg.jp/publiccomment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-08-31T23:48:45.5831259+00:00",
+  "updatedUtc": "2026-09-01T05:00:41.321522+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -29,11 +29,16 @@
       "key": "642249b94dc330e23602595cc11866c1",
       "title": "\u65E5\u91CE\u5E02\u7ACB\u5150\u7AE5\u9928\u6761\u4F8B\uFF08\u6539\u6B63\u6848\uFF09\u306B\u5BFE\u3059\u308B\u30D1\u30D6\u30EA\u30C3\u30AF\u30B3\u30E1\u30F3\u30C8\u306E\u5B9F\u65BD\u306B\u3064\u3044\u3066",
       "firstSeenAt": "2026-07-24T06:37:12.2346926+00:00"
+    },
+    {
+      "key": "c5f4790cf5ece3457aa7d22e9a4e790b",
+      "title": "\u300C\uFF08\u4EEE\u79F0\uFF09\u7B2C3\u671F\u65E5\u91CE\u5E02\u5B50\u3069\u3082\u306E\u8CA7\u56F0\u5BFE\u7B56\u306B\u95A2\u3059\u308B\u57FA\u672C\u65B9\u91DD\u300D\u306B\u5BFE\u3059\u308B\u30D1\u30D6\u30EA\u30C3\u30AF\u30B3\u30E1\u30F3\u30C8\u306E\u5B9F\u65BD\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-09-01T05:00:41.3232182+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u0022ad84-65a593a6bdac0\u0022",
-    "lastModifiedUtc": "2026-08-31T15:12:19Z"
+    "eTag": "\u0022af70-65a6337bf0ee2\u0022",
+    "lastModifiedUtc": "2026-09-01T03:07:23Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

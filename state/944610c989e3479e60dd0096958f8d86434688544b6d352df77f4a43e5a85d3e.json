@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.hokkaido.lg.jp/category/d001/c002/s003/",
   "feedType": "html",
-  "updatedUtc": "2026-08-31T23:48:20.0020439+00:00",
+  "updatedUtc": "2026-09-01T05:00:15.9923309+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -34,11 +34,16 @@
       "key": "6cb46b518275bf788d37c82d256c97a4",
       "title": "\u5317\u6D77\u9053\u7DCF\u5408\u8A08\u753B\uFF08\u6848\uFF09\u5B50\u3069\u3082\u610F\u898B\u52DF\u96C6\uFF08\u7D42\u4E86\u3057\u307E\u3057\u305F\uFF09\u7DCF\u5408\u653F\u7B56\u90E8\u8A08\u753B\u63A8\u9032\u8AB2",
       "firstSeenAt": "2026-06-16T11:31:42.741802+00:00"
+    },
+    {
+      "key": "4368cc3e460a57a435606efcd475d79c",
+      "title": "\u4EE4\u548C\uFF16\u5E74\u5EA6\u30FB\u3053\u3069\u3082\u306E\u3044\u3051\u3093\uFF08\u8A08\u753B\u7B49\u3078\u306E\u610F\u898B\u52DF\u96C6\uFF09\u306E\u7D50\u679C\u5B50\u3069\u3082\u653F\u7B56\u4F01\u753B\u8AB2",
+      "firstSeenAt": "2026-09-01T05:00:15.9973615+00:00"
     }
   ],
   "httpCache": {
-    "eTag": "\u00226a9610ed-707a\u0022",
-    "lastModifiedUtc": "2026-08-31T23:40:29Z"
+    "eTag": "\u00226a965741-704d\u0022",
+    "lastModifiedUtc": "2026-09-01T04:40:33Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
