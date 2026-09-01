@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.setagaya.lg.jp/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-01T05:01:28.016595+00:00",
+  "updatedUtc": "2026-09-01T10:03:15.1813991+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -12,8 +12,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u00228606-65a64cb13060f\u0022",
-    "lastModifiedUtc": "2026-09-01T05:00:10Z"
+    "eTag": "\u0022860d-65a67ba0dce60\u0022",
+    "lastModifiedUtc": "2026-09-01T08:30:09Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
