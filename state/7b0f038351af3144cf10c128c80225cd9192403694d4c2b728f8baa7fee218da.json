@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.tochigi.lg.jp/c05/kensei/kouhou/hp/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-02T09:34:08.0500568+00:00",
+  "updatedUtc": "2026-09-02T14:26:45.0277296+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
     "eTag": "\u002212e92\u0022",
-    "lastModifiedUtc": "2026-09-02T07:36:24Z"
+    "lastModifiedUtc": "2026-09-02T08:36:36Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
