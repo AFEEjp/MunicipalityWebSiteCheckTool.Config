@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.fuji.shizuoka.jp/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-02T04:25:08.2041137+00:00",
+  "updatedUtc": "2026-09-02T09:34:12.2801466+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00228b6e-65a773b549399\u0022",
-    "lastModifiedUtc": "2026-09-02T03:00:03Z"
+    "eTag": "\u00228b6e-65a78e8999298\u0022",
+    "lastModifiedUtc": "2026-09-02T05:00:05Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

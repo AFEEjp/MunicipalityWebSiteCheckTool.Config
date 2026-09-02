@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.shimane.lg.jp/admin/seisaku/koho/come/",
   "feedType": "html",
-  "updatedUtc": "2026-09-02T04:23:39.7589923+00:00",
+  "updatedUtc": "2026-09-02T09:33:17.3587942+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022324a3-65a1d36fdc7fc\u0022",
-    "lastModifiedUtc": "2026-08-28T15:36:23Z"
+    "eTag": "\u00223215e-65a7b20876fa9\u0022",
+    "lastModifiedUtc": "2026-09-02T07:38:53Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
