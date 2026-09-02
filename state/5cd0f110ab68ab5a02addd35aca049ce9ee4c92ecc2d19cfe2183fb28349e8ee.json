@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.shizuoka.jp/kensei/gyoseikaikaku/johokokai/1002310/1067293/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-02T00:06:12.1154304+00:00",
+  "updatedUtc": "2026-09-02T04:24:23.5904126+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00226377-65a6db66dc050\u0022",
-    "lastModifiedUtc": "2026-09-01T15:38:38Z"
+    "eTag": "\u00226377-65a77c6d489cf\u0022",
+    "lastModifiedUtc": "2026-09-02T03:39:03Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,

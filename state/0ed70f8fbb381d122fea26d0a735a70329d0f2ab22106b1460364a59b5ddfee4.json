@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.katsushika.lg.jp/opinions/1009924.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-02T00:05:53.2962575+00:00",
+  "updatedUtc": "2026-09-02T04:24:05.2020378+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -17,8 +17,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u0022bec1-65a7420267f7d\u0022",
-    "lastModifiedUtc": "2026-09-01T23:17:42Z"
+    "eTag": "\u0022bec1-65a7776d4e455\u0022",
+    "lastModifiedUtc": "2026-09-02T03:16:41Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
