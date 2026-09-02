@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.sendai.jp/kochotoke-kocho/shise/koho/kocho/sonota/comment/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-02T14:25:55.3149083+00:00",
+  "updatedUtc": "2026-09-02T18:39:13.7837599+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -22,7 +22,7 @@
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-08-28T15:30:03Z"
+    "lastModifiedUtc": "2026-09-02T15:30:10Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
