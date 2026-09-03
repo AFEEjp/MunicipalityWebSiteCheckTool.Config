@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.yamato.lg.jp/gyosei/soshik/22/shiminsanka/publiccomment/reiwa4nenndo/index.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-03T04:20:27.2550804+00:00",
+  "updatedUtc": "2026-09-03T09:42:28.1394213+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00226a0e8ae4-a9a0\u0022",
-    "lastModifiedUtc": "2026-05-21T04:32:36Z"
+    "eTag": "\u00226a990500-a9a0\u0022",
+    "lastModifiedUtc": "2026-09-03T05:26:24Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
