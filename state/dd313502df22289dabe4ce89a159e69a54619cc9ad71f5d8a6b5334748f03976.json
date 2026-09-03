@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.pref.kanagawa.jp/pub/list-2.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-03T00:10:21.788406+00:00",
+  "updatedUtc": "2026-09-03T04:20:27.1247181+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -12,7 +12,7 @@
     }
   ],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-02T15:19:58Z"
+    "lastModifiedUtc": "2026-09-03T03:00:20Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
