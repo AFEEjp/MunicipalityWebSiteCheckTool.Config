@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://web.pref.hyogo.lg.jp/pref/cate3_668.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-03T14:29:51.8520642+00:00",
+  "updatedUtc": "2026-09-03T18:35:13.7494342+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022367b-65a59321e69ec\u0022",
-    "lastModifiedUtc": "2026-08-31T15:09:59Z"
+    "eTag": "\u0022367b-65a957074c54d\u0022",
+    "lastModifiedUtc": "2026-09-03T15:02:23Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
