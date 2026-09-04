@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.pref.fukui.lg.jp/doc/kouho/pabukome/publicjissi2.html",
   "feedType": "html",
-  "updatedUtc": "2026-09-04T09:42:02.3086075+00:00",
+  "updatedUtc": "2026-09-04T14:19:11.7475275+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u0022e240-6598b64ab0f6e\u0022",
-    "lastModifiedUtc": "2026-08-21T09:38:04Z"
+    "eTag": "\u0022e240-65aa61346c0f4\u0022",
+    "lastModifiedUtc": "2026-09-04T10:53:14Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
