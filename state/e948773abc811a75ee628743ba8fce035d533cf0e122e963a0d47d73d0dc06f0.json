@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.ebina.kanagawa.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-09-04T04:32:19.7037781+00:00",
+  "updatedUtc": "2026-09-04T09:42:19.9667281+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u00225aba-65aa060fd4071\u0022",
-    "lastModifiedUtc": "2026-09-04T04:05:28Z"
+    "eTag": "\u00225aba-65aa491cedf9f\u0022",
+    "lastModifiedUtc": "2026-09-04T09:05:27Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
