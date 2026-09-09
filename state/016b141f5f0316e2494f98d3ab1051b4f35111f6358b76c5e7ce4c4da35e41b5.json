@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.adachi.tokyo.jp/shinchaku/shinchaku.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-09T00:10:02.8365582+00:00",
+  "updatedUtc": "2026-09-09T04:37:51.3087516+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u002211d73-65b018901aef8\u0022",
-    "lastModifiedUtc": "2026-09-09T00:00:11Z"
+    "eTag": "\u002211d02-65b054e7eaf8b\u0022",
+    "lastModifiedUtc": "2026-09-09T04:30:10Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
