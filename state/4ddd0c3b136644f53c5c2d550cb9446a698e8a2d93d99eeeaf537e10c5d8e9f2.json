@@ -1,0 +1,35 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.pref.okinawa.jp/kensei/kochokoho/1014932/1014936/1028448/index.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-09T00:09:47.1542499+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "9c2858b519128c80ed32b37c33165b07",
+      "title": "\u6C96\u7E04\u770C\u30AE\u30E3\u30F3\u30D6\u30EB\u7B49\u4F9D\u5B58\u75C7\u5BFE\u7B56\u63A8\u9032\u8A08\u753B(\u6848)\u306B\u5BFE\u3059\u308B\u770C\u6C11\u610F\u898B\u52DF\u96C6",
+      "firstSeenAt": "2026-05-23T15:16:55.5565098+00:00"
+    },
+    {
+      "key": "bf99dcae882de5b3b50a32d2da1282cc",
+      "title": "\u6C96\u7E04\u770C\u3053\u3069\u3082\u30FB\u82E5\u8005\u8A08\u753B\uFF08\u6848\uFF09\u306B\u5BFE\u3059\u308B\u610F\u898B\u52DF\u96C6",
+      "firstSeenAt": "2026-05-23T15:16:55.5565867+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u0022a67a-65b00d2a92c80\u0022",
+    "lastModifiedUtc": "2026-09-08T23:09:12Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "currentFingerprint": "migration-text-only|3033245df5b5e02d84eb45405b37f36ab1ebf928626cb8e6ac04a0d39a6b75f8",
+    "consecutiveCount": 67,
+    "lastReason": "migration-text-only",
+    "lastConfidence": "low",
+    "lastNotifiedFingerprint": "migration-text-only|3033245df5b5e02d84eb45405b37f36ab1ebf928626cb8e6ac04a0d39a6b75f8",
+    "lastNotifiedUtc": "2026-08-05T11:28:04.8298626+00:00"
+  }
+}

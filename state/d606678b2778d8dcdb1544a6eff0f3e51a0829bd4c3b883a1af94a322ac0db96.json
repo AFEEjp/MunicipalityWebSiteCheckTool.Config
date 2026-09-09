@@ -1,0 +1,16 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.mitoyo.lg.jp/cgi-bin/feed.php?type=rss_2.0",
+  "feedType": "rss",
+  "updatedUtc": "2026-09-09T00:10:05.1430885+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {},
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

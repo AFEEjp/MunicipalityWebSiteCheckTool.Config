@@ -1,0 +1,25 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.yokohama.lg.jp/city-info/koho-kocho/kocho/public/public-jyokyo.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-09T00:09:49.782375+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "f29e7ebf9b4774276314172a7e75e15f",
+      "title": "\u7B2C\uFF16\u6B21\u7537\u5973\u5171\u540C\u53C2\u753B\u884C\u52D5\u8A08\u753B(\u7D20\u6848)\u306B\u3064\u3044\u3066",
+      "firstSeenAt": "2026-05-23T15:16:59.2415095+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u0022c77a-65af02eaae0f5-gzip\u0022",
+    "lastModifiedUtc": "2026-09-08T03:18:01Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0
+  }
+}

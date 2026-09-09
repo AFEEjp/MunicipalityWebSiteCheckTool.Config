@@ -1,0 +1,18 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.ushiku.lg.jp/shisei/johohasshin/koho-kocho/public-comment/page014751.html",
+  "feedType": "html",
+  "updatedUtc": "2026-09-09T00:09:52.9906285+00:00",
+  "maxSeen": 500,
+  "seen": [],
+  "httpCache": {},
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0,
+    "lastNotifiedFingerprint": "meta-refresh|e3652c167e5aed54a602b4f2cae2d26ba41df5094c775ff5c2b9e3625cadcb1d",
+    "lastNotifiedUtc": "2026-08-05T05:54:19.441597+00:00"
+  }
+}

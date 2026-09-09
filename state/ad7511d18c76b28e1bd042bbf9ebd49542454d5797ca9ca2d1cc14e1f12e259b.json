@@ -1,0 +1,27 @@
+﻿{
+  "version": 1,
+  "feedUrl": "https://www.city.setagaya.lg.jp/shinchaku/shinchaku.xml",
+  "feedType": "rss",
+  "updatedUtc": "2026-09-09T00:10:00.5686918+00:00",
+  "maxSeen": 500,
+  "seen": [
+    {
+      "key": "c917209ea585270e51d68cbb8b77d9d6",
+      "title": "\u4E16\u7530\u8C37\u533A\u5B50\u3069\u3082\u306E\u6A29\u5229\u6761\u4F8B\uFF08\u7D20\u6848\uFF09\u30FB\u4E16\u7530\u8C37\u533A\u5B50\u3069\u3082\u30FB\u82E5\u8005\u7DCF\u5408\u8A08\u753B\uFF08\u7B2C\uFF13\u671F\uFF09\uFF08\u7D20\u6848\uFF09\u306E\u30D1\u30D6\u30EA\u30C3\u30AF\u30B3\u30E1\u30F3\u30C8\u5B9F\u65BD\u7D50\u679C",
+      "firstSeenAt": "2026-06-11T07:02:48.1154815+00:00"
+    }
+  ],
+  "httpCache": {
+    "eTag": "\u0022913a-65afa025c0739\u0022",
+    "lastModifiedUtc": "2026-09-08T15:01:28Z"
+  },
+  "consecutiveFailures": 0,
+  "rssHtmlMismatchCount": 0,
+  "rssHtmlLastNotifiedCount": 0,
+  "consecutiveFailureLastNotifiedCount": 0,
+  "urlMigration": {
+    "consecutiveCount": 0,
+    "lastNotifiedFingerprint": "migration-text-only|d0a74f719a62cfdcfb670bfb80a842323ca2e221b05718f9f56d8cc9aa599edc",
+    "lastNotifiedUtc": "2026-08-07T04:03:30.9435759+00:00"
+  }
+}
