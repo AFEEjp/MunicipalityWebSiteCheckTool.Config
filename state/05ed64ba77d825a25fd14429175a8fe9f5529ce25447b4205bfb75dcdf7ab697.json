@@ -2,12 +2,12 @@
   "version": 1,
   "feedUrl": "https://www.city.ageo.lg.jp/rss/10/list1.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-11T09:36:45.0504079+00:00",
+  "updatedUtc": "2026-09-11T14:24:09.9952791+00:00",
   "maxSeen": 500,
   "seen": [],
   "httpCache": {
-    "eTag": "\u002211ee8-65b31c3ef6223\u0022",
-    "lastModifiedUtc": "2026-09-11T09:32:39Z"
+    "eTag": "\u002211ee8-65b35bf1ed616\u0022",
+    "lastModifiedUtc": "2026-09-11T14:17:38Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
