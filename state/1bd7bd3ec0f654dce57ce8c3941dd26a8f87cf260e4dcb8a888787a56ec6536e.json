@@ -2,13 +2,18 @@
   "version": 1,
   "feedUrl": "https://www.metro.tokyo.lg.jp/index.html/-/asset_publisher/knkg/rss",
   "feedType": "rss",
-  "updatedUtc": "2026-09-11T04:32:21.222076+00:00",
+  "updatedUtc": "2026-09-11T09:36:49.6364748+00:00",
   "maxSeen": 500,
   "seen": [
     {
       "key": "e9d9c0970849c4425a9ea8b8a0fa73a1",
       "title": "\u300C\u6771\u4EAC\u90FD\u7537\u5973\u5E73\u7B49\u53C2\u753B\u63A8\u9032\u7DCF\u5408\u8A08\u753B\u300D\u306E\u6539\u5B9A\u306B\u3064\u3044\u3066",
       "firstSeenAt": "2026-08-05T02:35:32.0914491+00:00"
+    },
+    {
+      "key": "a68e85d094bddb1c23c15cfe69955698",
+      "title": "\u5973\u6027\u9996\u9577\u3001\u99D0\u65E5\u5973\u6027\u5927\u4F7F\u3001\u5973\u6027\u7D4C\u55B6\u8005\u304C\u610F\u898B\u4EA4\u63DB\u300C\u7B2C8\u56DE\u5973\u6027\u9996\u9577\u306B\u3088\u308B\u3073\u3058\u3087\u3093\u30CD\u30C3\u30C8\u30EF\u30FC\u30AF\u300D\u3092\u958B\u50AC",
+      "firstSeenAt": "2026-09-11T09:36:49.6451564+00:00"
     }
   ],
   "httpCache": {},
