@@ -2,11 +2,17 @@
   "version": 1,
   "feedUrl": "https://www.city.kyoto.lg.jp/main/rss/rss_new.xml",
   "feedType": "rss",
-  "updatedUtc": "2026-09-11T00:06:16.6397112+00:00",
+  "updatedUtc": "2026-09-11T04:32:11.6784577+00:00",
   "maxSeen": 500,
-  "seen": [],
+  "seen": [
+    {
+      "key": "383c88f51629c8dae56ae83841bc9c96",
+      "title": "\u4EE4\u548C6\u5E74\u5EA6\u4E00\u822C\u4F1A\u8A08\u7B49\u6C7A\u7B97\u5BE9\u67FB\u53CA\u3073\u57FA\u91D1\u904B\u7528\u72B6\u6CC1\u5BE9\u67FB\u30FB\u516C\u55B6\u4F01\u696D\u7279\u5225\u4F1A\u8A08\u6C7A\u7B97\u5BE9\u67FB\u30FB\u5065\u5168\u5316\u5224\u65AD\u6BD4\u7387\u7B49\u5BE9\u67FB\u610F\u898B\u6587\u3092\u63B2\u8F09\u3057\u307E\u3057\u305F\u3002\uFF08\u76E3\u67FB\u4E8B\u52D9\u5C40\uFF09",
+      "firstSeenAt": "2026-09-11T04:32:11.6813342+00:00"
+    }
+  ],
   "httpCache": {
-    "lastModifiedUtc": "2026-09-11T00:00:43Z"
+    "lastModifiedUtc": "2026-09-11T04:00:53Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
