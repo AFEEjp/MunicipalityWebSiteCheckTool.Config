@@ -2,7 +2,7 @@
   "version": 1,
   "feedUrl": "https://www.city.musashino.lg.jp/news.rss",
   "feedType": "rss",
-  "updatedUtc": "2026-09-10T21:36:27.6962951+00:00",
+  "updatedUtc": "2026-09-11T00:06:27.6138489+00:00",
   "maxSeen": 500,
   "seen": [
     {
@@ -12,8 +12,8 @@
     }
   ],
   "httpCache": {
-    "eTag": "\u0022120d2-65b2282477240\u0022",
-    "lastModifiedUtc": "2026-09-10T15:20:33Z"
+    "eTag": "\u0022120d2-65b29366cf872\u0022",
+    "lastModifiedUtc": "2026-09-10T23:20:25Z"
   },
   "consecutiveFailures": 0,
   "rssHtmlMismatchCount": 0,
